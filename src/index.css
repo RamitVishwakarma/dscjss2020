@@ -1,0 +1,202 @@
+html,
+body {
+  overflow-x: hidden;
+}
+#root {
+  display: flex;
+  justify-content: center;
+}
+@font-face {
+  font-family: "Airbnb Cereal App Book";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/AirbnbCerealBook.woff") format("woff");
+}
+@font-face {
+  font-family: "Gilroy-Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./assets/fonts/Gilroy-Bold.woff") format("woff");
+}
+
+.main__app {
+  font-family: "Airbnb Cereal App Book";
+  display: flex;
+  position: absolute;
+  width: 90%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Navbar */
+
+.navbar__main {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav__links {
+  font-family: "Airbnb Cereal App Book";
+  margin: 0px 25px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+  color: #4f4f4f;
+  text-decoration: none;
+  z-index: 1;
+}
+.active_link{
+    color: #DB4437;
+    font-weight: bold;
+}
+.primary-btn {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  color: #ffffff;
+  background: #4285f4;
+  border-radius: 5px;
+  padding: 14px 60px;
+}
+.world-img {
+  position: absolute;
+  width: 871.48px;
+  height: 496px;
+  left: 50%;
+  top: -61px;
+}
+.flex__row {
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+  align-items: center;
+  width: 100%;
+  /* border: 1px solid red; */
+  justify-content: space-around;
+}
+/* Navbar Ends */
+
+/* Team  */
+.page__headline {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+}
+.page__heading {
+  margin-bottom: 20px;
+  font-weight: bolder;
+  font-size: 52px;
+  line-height: 68px;
+  color: #333333;
+}
+.page__content {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 31px;
+  color: #4f4f4f;
+}
+.team__container {
+  margin-top: 80px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.team__card {
+    padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.member__img {
+  position: relative;
+  width: 260px;
+  height: 291px;
+  margin-bottom: 28px;
+  border-radius: 10px;
+}
+.content__overlay {
+  position: absolute;
+  font-family: "Gilroy-Bold";
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  background: linear-gradient(288.06deg, #444bab 7.52%, #5a65ef 166.1%);
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  z-index: 10;
+  transition: 0.7s ease;
+}
+.overlay__content {
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-right: 2px;
+}
+.content__overlay span {
+  font-size: 17px;
+  color: #ffffff;
+  line-height: 166.3%;
+}
+.display__img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+.member__social {
+  margin-top: 15px;
+  display: flex;
+}
+.member__social a {
+  margin-right: 10px;
+}
+.member__social img {
+  width: 20px;
+  height: 20px;
+  border-radius: none !important;
+}
+.member__img:hover .content__overlay {
+  bottom: 0;
+  height: 100%;
+}
+
+.member__name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 36px;
+  color: #000000;
+}
+.member__designation {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+@media(max-width:990px){
+    .navbar__main{
+        justify-content: space-between;
+    }
+    .navbar__content{
+        display: none;
+    }
+
+    .flex__row{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .page__headline{
+        width: 100%;
+    }
+}
+/* Team Ends */
