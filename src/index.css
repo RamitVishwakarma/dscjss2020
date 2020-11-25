@@ -1,6 +1,8 @@
 html,
 body {
   overflow-x: hidden;
+  position: relative;
+  height: 100%;
 }
 #root {
   display: flex;
@@ -69,7 +71,7 @@ body {
   position: absolute;
   width: 871.48px;
   height: 496px;
-  left: 50%;
+  left: 40%;
   top: -61px;
 }
 .flex__row {
@@ -190,7 +192,9 @@ body {
     .navbar__content{
         display: none;
     }
-
+.world-img{
+    left: 0%;
+}
     .flex__row{
         flex-direction: column;
         justify-content: center;
