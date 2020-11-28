@@ -18,17 +18,28 @@ function Team() {
           <span className="page__heading">Meet the Geeks</span>
           <span className="page__content">
             Our aim is to learn and teach.
-            <span style={{ color: "#0F9D58" }}> Developers</span>,
-            <span style={{ color: "#DB4437" }}> Designers</span> and
-            <span style={{ color: "#4285F4" }}> Programmers </span>
+            <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>
+              {" "}
+              Developers
+            </span>
+            ,
+            <span style={{ color: "#DB4437", fontWeight: "bolder" }}>
+              {" "}
+              Designers
+            </span>{" "}
+            and
+            <span style={{ color: "#4285F4", fontWeight: "bolder" }}>
+              {" "}
+              Programmers{" "}
+            </span>
             come together under one roof to create a community which inspires
             thousands
           </span>
         </div>
         <Lottie
           options={defaultOptions}
-          height={400}
-          width={400}
+          height={700}
+          width={700}
           style={{ margin: "0px" }}
         />
       </div>
@@ -46,35 +57,10 @@ function Team() {
                 </span>
                 <div className="member__social">
                   <a href="/">
-                    <img src={In} alt="LinkedIn"/>
+                    <img src={In} alt="LinkedIn" />
                   </a>
                   <a href="/">
-                    <img src={Fb} alt="Facebook"/>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <span className="member__name">Vivekanand Vivek</span>
-          <span className="member__designation">Lead</span>
-        </div>
-        <div className="team__card">
-          <div className="member__img">
-            <img src={Member} alt="" className="display__img" />
-            <div className="content__overlay">
-              <div className="overlay__content">
-                <span>Hello,</span>
-                <span>
-                  Our masters of Programming are graduates of IITs and have
-                  previously worked at Top-Tech Companies. Our strength comes
-                  from their passion towards teaching.
-                </span>
-                <div className="member__social">
-                  <a href="/">
-                    <img src={In} alt="LinkedIn"/>
-                  </a>
-                  <a href="/">
-                    <img src={Fb} alt="Facebook"/>
+                    <img src={Fb} alt="Facebook" />
                   </a>
                 </div>
               </div>
@@ -96,35 +82,10 @@ function Team() {
                 </span>
                 <div className="member__social">
                   <a href="/">
-                    <img src={In} alt="LinkedIn"/>
+                    <img src={In} alt="LinkedIn" />
                   </a>
                   <a href="/">
-                    <img src={Fb} alt="Facebook"/>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <span className="member__name">Vivekanand Vivek</span>
-          <span className="member__designation">Lead</span>
-        </div>
-        <div className="team__card">
-          <div className="member__img">
-            <img src={Member} alt="" className="display__img" />
-            <div className="content__overlay">
-              <div className="overlay__content">
-                <span>Hello,</span>
-                <span>
-                  Our masters of Programming are graduates of IITs and have
-                  previously worked at Top-Tech Companies. Our strength comes
-                  from their passion towards teaching.
-                </span>
-                <div className="member__social">
-                  <a href="/">
-                    <img src={In} alt="LinkedIn"/>
-                  </a>
-                  <a href="/">
-                    <img src={Fb} alt="Facebook"/>
+                    <img src={Fb} alt="Facebook" />
                   </a>
                 </div>
               </div>
@@ -146,35 +107,10 @@ function Team() {
                 </span>
                 <div className="member__social">
                   <a href="/">
-                    <img src={In} alt="LinkedIn"/>
+                    <img src={In} alt="LinkedIn" />
                   </a>
                   <a href="/">
-                    <img src={Fb} alt="Facebook"/>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <span className="member__name">Vivekanand Vivek</span>
-          <span className="member__designation">Lead</span>
-        </div>
-        <div className="team__card">
-          <div className="member__img">
-            <img src={Member} alt="" className="display__img" />
-            <div className="content__overlay">
-              <div className="overlay__content">
-                <span>Hello,</span>
-                <span>
-                  Our masters of Programming are graduates of IITs and have
-                  previously worked at Top-Tech Companies. Our strength comes
-                  from their passion towards teaching.
-                </span>
-                <div className="member__social">
-                  <a href="/">
-                    <img src={In} alt="LinkedIn"/>
-                  </a>
-                  <a href="/">
-                    <img src={Fb} alt="Facebook"/>
+                    <img src={Fb} alt="Facebook" />
                   </a>
                 </div>
               </div>
@@ -196,10 +132,85 @@ function Team() {
                 </span>
                 <div className="member__social">
                   <a href="/">
-                    <img src={In} alt="LinkedIn"/>
+                    <img src={In} alt="LinkedIn" />
                   </a>
                   <a href="/">
-                    <img src={Fb} alt="Facebook"/>
+                    <img src={Fb} alt="Facebook" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span className="member__name">Vivekanand Vivek</span>
+          <span className="member__designation">Lead</span>
+        </div>
+        <div className="team__card">
+          <div className="member__img">
+            <img src={Member} alt="" className="display__img" />
+            <div className="content__overlay">
+              <div className="overlay__content">
+                <span>Hello,</span>
+                <span>
+                  Our masters of Programming are graduates of IITs and have
+                  previously worked at Top-Tech Companies. Our strength comes
+                  from their passion towards teaching.
+                </span>
+                <div className="member__social">
+                  <a href="/">
+                    <img src={In} alt="LinkedIn" />
+                  </a>
+                  <a href="/">
+                    <img src={Fb} alt="Facebook" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span className="member__name">Vivekanand Vivek</span>
+          <span className="member__designation">Lead</span>
+        </div>
+        <div className="team__card">
+          <div className="member__img">
+            <img src={Member} alt="" className="display__img" />
+            <div className="content__overlay">
+              <div className="overlay__content">
+                <span>Hello,</span>
+                <span>
+                  Our masters of Programming are graduates of IITs and have
+                  previously worked at Top-Tech Companies. Our strength comes
+                  from their passion towards teaching.
+                </span>
+                <div className="member__social">
+                  <a href="/">
+                    <img src={In} alt="LinkedIn" />
+                  </a>
+                  <a href="/">
+                    <img src={Fb} alt="Facebook" />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span className="member__name">Vivekanand Vivek</span>
+          <span className="member__designation">Lead</span>
+        </div>
+        <div className="team__card">
+          <div className="member__img">
+            <img src={Member} alt="" className="display__img" />
+            <div className="content__overlay">
+              <div className="overlay__content">
+                <span>Hello,</span>
+                <span>
+                  Our masters of Programming are graduates of IITs and have
+                  previously worked at Top-Tech Companies. Our strength comes
+                  from their passion towards teaching.
+                </span>
+                <div className="member__social">
+                  <a href="/">
+                    <img src={In} alt="LinkedIn" />
+                  </a>
+                  <a href="/">
+                    <img src={Fb} alt="Facebook" />
                   </a>
                 </div>
               </div>
