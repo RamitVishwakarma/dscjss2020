@@ -105,7 +105,7 @@ body {
 .team__container {
   margin-top: 80px;
   display: flex;
-  width: 90%;
+  width: 100%;
   justify-content: flex-start;
   flex-wrap: wrap;
   border: 1px solid green;
@@ -203,6 +203,9 @@ body {
   }
   .page__headline {
     width: 100%;
+  }
+  .team__container{
+    justify-content: center;
   }
 }
 /* Team Ends */
