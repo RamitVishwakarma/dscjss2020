@@ -106,16 +106,15 @@ body {
   margin-top: 80px;
   display: flex;
   width: 100%;
-  justify-content: flex-start;
+  justify-content: center;
   flex-wrap: wrap;
   border: 1px solid green;
 }
 .team__card {
-  padding-right: 110px!important;
+  padding: 50px;
   margin-bottom: 40px;
-  /* flex-basis: 20%; */
+  /* flex-basis: 25%; */
   display: flex;
-  align-items: flex-start;
   flex-direction: column;
 }
 .member__img {
@@ -175,7 +174,6 @@ body {
 
 .member__name {
   font-style: normal;
-  /* width: 100%; */
   font-weight: bold;
   font-size: 28px;
   line-height: 36px;
@@ -197,15 +195,14 @@ body {
   .world-img {
     left: 0%;
   }
+
   .flex__row {
     flex-direction: column;
     justify-content: center;
   }
   .page__headline {
     width: 100%;
-  }
-  .team__container{
-    justify-content: center;
+    text-align: center;
   }
 }
 /* Team Ends */
