@@ -40,7 +40,7 @@ function Team() {
           options={defaultOptions}
           height={700}
           width={700}
-          style={{ margin: "0px" }}
+          style={{ margin: "0px" ,maxWidth:'100%' }}
         />
       </div>
       <div className="team__container">
