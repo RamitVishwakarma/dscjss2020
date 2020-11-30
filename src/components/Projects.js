@@ -1,9 +1,7 @@
 import React from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
-import Zealicon from "../assets/img/projects/zealicon.png";
-import In from "../assets/img/in.svg";
-import Fb from "../assets/img/fb.svg";
+
 
 function Projects() {
   const defaultOptions = {
