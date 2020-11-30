@@ -1,5 +1,4 @@
 import React from "react";
-// import { IconContext } from "react-icons";
 import { NavLink } from "react-router-dom";
 
 export default function Sidebar({isOpen}) {
@@ -9,16 +8,16 @@ export default function Sidebar({isOpen}) {
         <div className="sidebar">
           <div className="sidebar-links">
             <NavLink exact activeClassName="selected_link" to="/">
-              Home
+             <span style={{color:'#4285F4'}}> Home</span>
             </NavLink>
-            <NavLink exact activeClassName="selected_link" to="/courses">
-              Courses
+            <NavLink exact activeClassName="selected_link" to="/projects">
+            <span style={{color:'#DB4437'}}> Projects</span>
             </NavLink>
-            <NavLink exact activeClassName="selected_link" to="/about">
-              About
+            <NavLink exact activeClassName="selected_link" to="/team">
+            <span style={{color:'#F4B400'}}> Team</span>
             </NavLink>
             <NavLink exact activeClassName="selected_link" to="/contact">
-              Contact
+            <span style={{color:'#0F9D58'}}> Events</span>
             </NavLink>
           </div>
         </div>
