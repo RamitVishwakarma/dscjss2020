@@ -267,4 +267,11 @@ body {
   z-index: 1000000;
   cursor: pointer;
 }
+.open {
+  position: relative;
 
+}
+.close {
+  position: relative;
+
+}
