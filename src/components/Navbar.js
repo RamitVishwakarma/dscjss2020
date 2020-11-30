@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import Logo from "../assets/img/logo.svg";
 import { useLocation } from "react-router-dom";
 import MediaQuery from "react-responsive";
-import Sidebar from "./Sidebar";
+// import Sidebar from "./Sidebar";
 import { IconContext } from "react-icons";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 

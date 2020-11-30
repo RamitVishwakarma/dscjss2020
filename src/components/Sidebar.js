@@ -6,7 +6,7 @@ import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 export default function Sidebar() {
   const [isOpen, handleOpen] = useState(false);
   return (
-    <div className={!isOpen ? "sidebar-container" : "sidebar-closed"}>
+    <div className={isOpen ? "sidebar-container" : "sidebar-closed"}>
       {isOpen ? (
         <IconContext.Provider value={{ className: "menu-icon close" }}>
           <div>
