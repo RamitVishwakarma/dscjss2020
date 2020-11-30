@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import World from "../assets/img/world.svg";
 import { Route, Switch } from "react-router-dom";
 import Team from "./Team";
+import Projects from "./Projects";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <Switch>
           
         <Route path="/team" component={Team} />
-        
+        <Route path="/projects" component={Projects} />
+
       </Switch>
     </div>
   );
