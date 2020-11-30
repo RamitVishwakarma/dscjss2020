@@ -6,6 +6,7 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
+  
 }
 @font-face {
   font-family: "Airbnb Cereal App Book";
@@ -30,16 +31,10 @@ body {
 
 .navbar__main {
   width: 100%;
-  /* position: absolute; */
-  /* top: -100px; */
   display: flex;
   justify-content: space-between;
   align-items: center;
   transition: all 0.5s ease;
-}
-.navbar__stretch {
-  /* position: relative; */
-margin-bottom: 300px;
 }
 .navbar__content {
   margin-top: 30px;
@@ -47,7 +42,10 @@ margin-bottom: 300px;
   justify-content: center;
   align-items: center;
 }
-
+.navbar__stretch {
+  margin-bottom: 400px;
+  transition: all 0.5s ease;
+}
 .nav__links {
   font-family: "Airbnb Cereal App Book";
   margin: 0px 25px;
@@ -202,13 +200,6 @@ margin-bottom: 300px;
 @media (max-width: 990px) {
   .navbar__main {
     justify-content: space-between;
-    box-shadow: 0px 4px 12px rgba(70, 74, 140, 0.12);
-    background-color: #ffffff;
-    padding: 20px 0px;
-    z-index: 1000;
-    width: 100%;
-    position: fixed;
-    top: -4px;
   }
 
   .navbar__content {
@@ -235,39 +226,39 @@ margin-bottom: 300px;
 /* Sidebar */
 .sidebar-container {
   position: fixed;
-  height: 200px;
+  height: 400px;
   width: 100%;
   background-color: white;
   color: grey;
   z-index: 1000;
-  top: 80px;
+  top: 60px;
   transition: all 0.5s ease;
-  /* right: 0; */
-  box-shadow: 0px 4px 12px rgba(70, 74, 140, 0.12);
+  left: 0;
+  /* box-shadow: 1px 1px 8px #414141; */
 }
 .sidebar-links {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  /* margin-top: 100px; */
+  margin-top: 50px;
+  margin-left: 10px;
 }
 .sidebar-closed {
   position: fixed;
-  height: 0px;
+  height: 0%;
   width: 100%;
   background-color: white;
   color: grey;
-  top: 80px;
+  top: 60px;
   transition: all 0.5s ease;
-  /* right: -260px; */
+  left: 0;
   z-index: 1000;
 }
 .sidebar a {
-  line-height: 46px;
+  line-height: 56px;
   color: grey;
   font-size: 20px;
-  transition: all 0.5s ease;
   text-decoration: none;
 }
 .selected_link {
@@ -276,16 +267,11 @@ margin-bottom: 300px;
 
 .menu-icon {
   color: grey !important;
-  height: 42px !important;
+  height: 40px !important;
   width: 40px !important;
   z-index: 1000000;
   cursor: pointer;
-  position: absolute;
-  right: 30px;
-}
-.open {
   position: relative;
+  right: 10px;
 }
-.close {
-  position: relative;
-}
+
