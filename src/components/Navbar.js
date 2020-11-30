@@ -3,32 +3,32 @@ import { Link } from "react-router-dom";
 import Logo from "../assets/img/logo.svg";
 import { useLocation } from "react-router-dom";
 import MediaQuery from "react-responsive";
-// import Sidebar from "./Sidebar";
+import Sidebar from "./Sidebar";
 import { IconContext } from "react-icons";
 import { AiOutlineClose, AiOutlineMenu } from "react-icons/ai";
 
 function Navbar() {
-    const [isOpen,handleOpen]=useState(true);
+  const [isOpen, handleOpen] = useState(false);
   const location = useLocation();
   return (
-    <div className="navbar__main">
+    <div className={isOpen ? "navbar__main navbar__stretch" : "navbar__main"}>
       <img src={Logo} alt="" />
       <MediaQuery maxDeviceWidth={990}>
-      {isOpen ? (
-        <IconContext.Provider value={{ className: "menu-icon close" }}>
-          <div>
-            <AiOutlineClose onClick={() => handleOpen(!isOpen)} />
-          </div>
-        </IconContext.Provider>
-      ) : (
-        <IconContext.Provider value={{ className: "menu-icon open" }}>
-          <div>
-            <AiOutlineMenu onClick={() => handleOpen(!isOpen)} />
-          </div>
-        </IconContext.Provider>
-      )}
+        {isOpen ? (
+          <IconContext.Provider value={{ className: "menu-icon close" }}>
+            <div>
+              <AiOutlineClose onClick={() => handleOpen(!isOpen)} />
+            </div>
+          </IconContext.Provider>
+        ) : (
+          <IconContext.Provider value={{ className: "menu-icon open" }}>
+            <div>
+              <AiOutlineMenu onClick={() => handleOpen(!isOpen)} />
+            </div>
+          </IconContext.Provider>
+        )}
 
-        {/* <Sidebar /> */}
+        <Sidebar isOpen={isOpen} />
       </MediaQuery>
       <div className="navbar__content">
         <Link
