@@ -3,6 +3,7 @@ import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
 import { Link } from "react-router-dom";
 import codesandbox from "../assets/img/codesandbox.svg";
+import Clubs from "./Clubs";
 
 function Home() {
   const defaultOptions = {
@@ -48,6 +49,7 @@ function Home() {
           style={{ margin: "0px", maxWidth: "100%", padding: "60px" }}
         />
       </div>
+      <Clubs />
     </>
   );
 }
