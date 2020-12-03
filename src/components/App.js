@@ -5,6 +5,7 @@ import Team from "./Team";
 import Projects from "./Projects";
 import NavbarDefault from "./NavbarDefault";
 import Home from "./Home";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route exact path="/team" component={Team} />
         <Route exact path="/projects" component={Projects} />
       </Switch>
+      <Footer />
     </div>
   );
 }
