@@ -23,9 +23,8 @@ function Development() {
       />
       <h4 style={{ marginBottom: "20px" }}>Development</h4>
       <p style={{ color: "#4f4f4f" }}>
-        Our aim is to learn and teach. Developers, Designers and Programmers
-        come together under one roof to create a community which inspires
-        thousands.
+        We're a community to help web developers by providing them helpful
+        resources and giving an experience of open source contribution.
       </p>
     </>
   );

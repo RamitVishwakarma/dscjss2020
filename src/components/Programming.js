@@ -23,9 +23,8 @@ function Programming() {
       />
       <h4 style={{ marginBottom: "20px" }}>Programming</h4>
       <p style={{ color: "#4f4f4f" }}>
-        Our aim is to learn and teach. Developers, Designers and Programmers
-        come together under one roof to create a community which inspires
-        thousands.
+        We're a hub of coders and programmers who help solve coding problems,
+        develop new skills, and develop your career path.
       </p>
     </>
   );

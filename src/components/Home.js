@@ -1,7 +1,6 @@
 import React from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
-import { Link } from "react-router-dom";
 import codesandbox from "../assets/img/codesandbox.svg";
 import Clubs from "./Clubs";
 import Join from "./Join";
@@ -18,7 +17,7 @@ function Home() {
         <div className="page__headline">
           <span className="page__heading">DSC JSS NOIDA</span>
           <span className="page__content">
-            Our aim is to learn and teach.
+            A community of
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>
               {" "}
               Developers
@@ -33,15 +32,15 @@ function Home() {
               {" "}
               Programmers{" "}
             </span>
-            come together under one roof to create a community which inspires
-            thousands
+            who grow their knowledge in a peer-to-peer learning environment and
+            build solutions for local businesses and their community.
           </span>
-          <Link to="/">
+          <a href="https://dsc.community.dev/jss-academy-of-technical-education-noida/">
             <button type="button" className="btn btn-primary join-us-btn">
               <img src={codesandbox} className="codesandbox" alt="icon" />
               <p>Join Us</p>
             </button>
-          </Link>
+          </a>
         </div>
         <Lottie
           options={defaultOptions}

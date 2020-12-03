@@ -23,9 +23,8 @@ function Design() {
       />
       <h4 style={{ marginBottom: "20px" }}>Designing</h4>
       <p style={{ color: "#4f4f4f" }}>
-        Our aim is to learn and teach. Developers, Designers and Programmers
-        come together under one roof to create a community which inspires
-        thousands.
+        We're a vibrant community for anyone who cares for design. We share
+        stories, uncover insights, surface opportunities in Design.
       </p>
     </>
   );

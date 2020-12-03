@@ -63,9 +63,12 @@ function NavbarDefault() {
         >
           Events
         </Link>
-        <Link to="/" className="nav__links primary-btn">
+        <a
+          href="https://www.instagram.com/dscjssaten/"
+          className="nav__links primary-btn"
+        >
           Connect
-        </Link>
+        </a>
       </div>
     </div>
   );
