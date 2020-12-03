@@ -2,7 +2,7 @@ import React from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
 
-function Projects() {
+function Home() {
   const defaultOptions = {
     loop: true,
     autoplay: true,
@@ -12,7 +12,7 @@ function Projects() {
     <>
       <div className="flex__row">
         <div className="page__headline">
-          <span className="page__heading">Stuffs we make</span>
+          <span className="page__heading">DSC JSS NOIDA</span>
           <span className="page__content">
             Our aim is to learn and teach.
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>
@@ -40,14 +40,8 @@ function Projects() {
           style={{ margin: "0px", maxWidth: "100%", padding: "60px" }}
         />
       </div>
-      <div className="project__container">
-        <div className="project__card">
-          <div className="project__image"></div>
-          <div className="project__content"></div>
-        </div>
-      </div>
     </>
   );
 }
 
-export default Projects;
+export default Home;

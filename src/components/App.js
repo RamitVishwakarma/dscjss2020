@@ -4,18 +4,18 @@ import { Route, Switch } from "react-router-dom";
 import Team from "./Team";
 import Projects from "./Projects";
 import NavbarDefault from "./NavbarDefault";
+import Home from "./Home";
 
 function App() {
   return (
     <div className="main__app">
       <img src={World} className="world-img" alt="Banner" />
-      <Route path="/" component={NavbarDefault} />
+      <NavbarDefault />
 
       <Switch>
-          
-        <Route path="/team" component={Team} />
-        <Route path="/projects" component={Projects} />
-
+        <Route exact path="/" component={Home} />
+        <Route exact path="/team" component={Team} />
+        <Route exact path="/projects" component={Projects} />
       </Switch>
     </div>
   );

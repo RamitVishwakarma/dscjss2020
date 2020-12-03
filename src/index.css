@@ -36,6 +36,8 @@ body {
 
 .navbar__main {
   width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -85,7 +87,6 @@ body {
 .flex__row {
   display: flex;
   flex-direction: row;
-  margin-top: 100px;
   align-items: center;
   width: 100%;
   /* border: 1px solid black; */
@@ -97,13 +98,16 @@ body {
 .page__headline {
   /* border: 1px solid red; */
   width: 500px;
+  margin: 50px;
+  font-size: 30px;
+  padding: 20px;
   display: flex;
   flex-direction: column;
 }
 .page__heading {
   margin-bottom: 20px;
   font-weight: 1000;
-  font-size: 52px;
+  font-size: 45px;
   line-height: 68px;
   color: #333333;
 }
@@ -208,7 +212,7 @@ body {
     z-index: 1000;
     height: 85px;
     width: 100%;
-    margin-left: 0!important;
+    margin-left: 0 !important;
     /* position: fixed; */
     top: 0px;
     box-shadow: 0px 4px 12px rgba(70, 74, 140, 0.12);

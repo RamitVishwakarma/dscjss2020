@@ -41,7 +41,7 @@ function Team() {
           options={defaultOptions}
           height={700}
           width={700}
-          style={{ margin: "0px", maxWidth: "100%" }}
+          style={{ margin: "0px", maxWidth: "100%", padding: "60px" }}
         />
       </div>
       <div className="team__container">
@@ -51,9 +51,7 @@ function Team() {
               <img src={Member} alt="" className="display__img" />
               <div className="content__overlay">
                 <div className="overlay__content">
-                  <span>
-                    {member.bio}
-                  </span>
+                  <span>{member.bio}</span>
                   <div className="member__social">
                     <a href={member.linkedin}>
                       <img src={In} alt="LinkedIn" />
