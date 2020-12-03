@@ -1,26 +1,210 @@
 [
   {
-    "name": "Naman Shankhydhar",
+    "name": "Pragati Verma",
+    "role": "DSC Lead",
+    "bio": "MLH Fellow | DSC Lead | SIH2020 Winner | MLSA 2020 | GSSoC'20 Mentor | GCI'19 Mentor @CircuitVerse | Full Stack Web Developer | Open Source Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/pragativerma18/",
+    "github": "https://github.com/PragatiVerma18",
+    "image": "https://pbs.twimg.com/profile_images/1319540033695539200/VnX1hLiH_400x400.jpg"
+  },
+  {
+    "name": "Shubham Pathak",
+    "role": "Android Lead | CTC",
+    "bio": "Droid @ Zomato | Managing my life along with app's lifecycle",
+    "linkedin": "https://www.linkedin.com/in/tronku/",
+    "github": "https://github.com/tronku",
+    "image": "https://pbs.twimg.com/profile_images/1117676771984465920/7hl-0Ba2_400x400.png"
+  },
+  {
+    "name": "Utkarsh Srivastava",
+    "role": "Tech Lead",
+    "bio": "I have been into Competitive Programming for more than a year. Moreover, I'm an enthusiastic learner, striving continuously to sharpen my skills and abilities.",
+    "linkedin": "https://www.linkedin.com/in/utkarsh7998/",
+    "github": "https://github.com/utkarsh7998",
+    "image": "https://i.ibb.co/587W3PJ/utkarsh.jpg"
+  },
+  {
+    "name": "Arpit Singh",
     "role": "Developer",
-    "bio": "Hello there, I am a frontend dev skilled in ReactJS. I am an open source enthusiast. I love to scroll Github.",
-    "linkedin": "https://linkedin.com/in/naman360",
-    "github": "https://github.com/naman360",
-    "image": ""
+    "bio": "Experienced Developer with a demonstrated history of working with developers. Skilled in OpenCV, Python Machine Learning, and Leadership. ",
+    "linkedin": "https://www.linkedin.com/in/gravious00/",
+    "github": "https://github.com/gravious00",
+    "image": "https://i.ibb.co/mX0WBTS/FB-IMG-1560967602244.jpg"
+  },
+  {
+    "name": "Tarun Shekhar",
+    "role": "Full Stack Web Developer",
+    "bio": "PHP | Laravel | Vue.js | Javascript | JAVA | Cloud Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/tarun-shekher-5b3801147",
+    "github": "https://github.com/Tarun9005",
+    "image": "https://avatars1.githubusercontent.com/u/48067136?s=460&u=c189fa60f47cf8d12c4c392e5cf31575ed77167d&v=4"
+  },
+  {
+    "name": "Pulkit Jatav",
+    "role": "Programmer/Developer",
+    "bio": "I am a coding enthusiast with varying interests. ",
+    "linkedin": "https://in.linkedin.com/in/pulkit-jatav",
+    "github": "https://github.com/paradoxpj",
+    "image": "https://i.ibb.co/hZT95jX/pulkitt.jpg"
+  },
+  {
+    "name": "Shubham Singh",
+    "role": "Designer",
+    "bio": "I Work on node.js and Computer Vision with a demonstrated history of working in the IT industry.",
+    "linkedin": "https://www.linkedin.com/in/codesirohi/",
+    "github": "https://github.com/codesirohi",
+    "image": "https://avatars1.githubusercontent.com/u/38425721?s=460&u=15197af7ea264e1b63a2d40e2a93a20d03bc8741&v=4"
+  },
+  {
+    "name": "Radhika Bajaj",
+    "role": "Programmer",
+    "bio": "I am a competitive programmer. I love to solve real-world problems using data structures and optimal algorithms. Besides, I am passionate about learning new technologies.",
+    "linkedin": "https://www.linkedin.com/in/radhika-bajaj/",
+    "github": "https://github.com/radhikabajaj/",
+    "image": "https://i.ibb.co/jJHNq8w/FB-IMG-1560446433456.jpg"
+  },
+  {
+    "name": "Apoorva Srivastava",
+    "role": "Programmer & Developer",
+    "bio": "CSE undergrad,Tech-savvy, DSA enthusiast, Quick learner",
+    "linkedin": "https://www.linkedin.com/in/apoorva-srivastava-9b9588162/",
+    "github": "https://github.com/apooorvasri",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFtfxvWl6PlNg/profile-displayphoto-shrink_800_800/0/1606548365813?e=1612396800&v=beta&t=UKzQHPYIpkwSNmCMiiFwYFhD3oBNU93HpCJ9ZqoJF8M"
+  },
+  {
+    "name": "Dheeraj Kotwani",
+    "role": "Android Lead",
+    "bio": "Android Developer who loves to build amazing apps. I believe in practice based learning and always there to collaborate and build projects. I like participating in Hackathons. Currently learning Advanced Android Skills along with practicing Data Structure and Algorithms.",
+    "linkedin": "https://www.linkedin.com/in/dheerajkotwani/",
+    "github": "github.com/dheerajkotwani",
+    "image": "https://avatars3.githubusercontent.com/u/44086235?s=460&u=68b5257a178f390026de053fd156498a1a4773a0&v=4"
+  },
+  {
+    "name": "Vatsal Kesarwani",
+    "role": "Android Developer",
+    "bio": "I'm an Android Developer who loves to build amazing apps. I believe in open-source learning and always there to collaborate and build projects. I can code in C, C++, Java, Kotlin. Currently focusing on learning advanced android skills and competitive programming.",
+    "linkedin": "https://www.linkedin.com/in/vatsal-kesarwani/",
+    "github": "https://github.com/plazzy99",
+    "image": "https://avatars2.githubusercontent.com/u/48295138?s=460&u=8e588b8e5d6e8eb2f40886398c26e37b83b33e50&v=4"
+  },
+  {
+    "name": "Ayush Tiwari",
+    "role": "Developer | Programmer",
+    "bio": "I love to solve problems and learn about new technology. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.",
+    "linkedin": "https://www.linkedin.com/in/ayush-tiwari-b376b5194/",
+    "github": "https://github.com/servermonk",
+    "image": "https://avatars0.githubusercontent.com/u/47775419?s=460&u=8093851c8db10edad1d6a00435989daab20c2bbe&v=4"
+  },
+  {
+    "name": "Gaurav Kumar",
+    "role": "Web Developer",
+    "bio": "I am 3rd year CSE student works with laravel and react for development.",
+    "linkedin": "https://www.linkedin.com/in/gaurav-kumar-51788a194/",
+    "github": "https://github.com/Gaurav6982",
+    "image": "https://avatars0.githubusercontent.com/u/49642550?s=460&u=18ca7aa78390044dca338d87ff90bb3511569b2c&v=4"
+  },
+  {
+    "name": "Gaurav Kumar",
+    "role": "Design Lead",
+    "bio": "UI/UX Designer | Graphic Designer | Video Editor | Designing Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/gauravgeek23/",
+    "github": "https://www.behance.net/gauravgeek23",
+    "image": "https://pbs.twimg.com/profile_images/1242846762680946688/XnHuKndh_400x400.jpg"
+  },
+  {
+    "name": "Swatantra Nigam",
+    "role": "Programmer | Backend Developer",
+    "bio": "DSA Enthusiastic, Competetive Programmer, Backend Developer PS -  Always ready to watch movies.",
+    "linkedin": "https://www.linkedin.com/in/swatantra-kumar-nigam",
+    "github": "https://github.com/swatantra94",
+    "image": "https://avatars1.githubusercontent.com/u/48061489?s=460&u=3ed05d50e68e484ff690fd04581e5adbff3cf46a&v=4"
+  },
+  {
+    "name": "Diya Jaiswal",
+    "role": "Developer",
+    "bio": "Backend Developer | Competitive Programmer | Open Source Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/diyajaiswal11/",
+    "github": "https://github.com/diyajaiswal11",
+    "image": "https://avatars1.githubusercontent.com/u/48059117?s=460&u=1887b008b26463a4c206beb958fd3db1823685b9&v=4"
   },
   {
     "name": "Naman Shankhydhar",
-    "role": "Developer",
-    "bio": "Hello there, I am a frontend dev skilled in ReactJS. I am an open source enthusiast. I love to scroll Github.",
-    "linkedin": "https://linkedin.com/in/naman360",
+    "role": "Web Developer",
+    "bio": "Front-end Developer | Open Source Enthusiast | JavaScript | C/C++",
+    "linkedin": "http://www.linkedin.com/in/naman360",
     "github": "https://github.com/naman360",
-    "image": ""
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQHGyWfm_cToBw/profile-displayphoto-shrink_800_800/0/1606719671636?e=1612396800&v=beta&t=SD-DfYYQ3YnggdvoQrjfB3iq2VHMGDiQzLqwkNhDUI0"
   },
   {
-    "name": "Naman Shankhydhar",
-    "role": "Developer",
-    "bio": "Hello there, I am a frontend dev skilled in ReactJS. I am an open source enthusiast. I love to scroll Github.",
-    "linkedin": "https://linkedin.com/in/naman360",
-    "github": "https://github.com/naman360",
-    "image": ""
+    "name": "Akshit Awasthi",
+    "role": "Programmer",
+    "bio": "An independent and self-motivated programmer, interested in solving real-life problems, fascinated by operating systems, Linux/kernel/hypervisor, data-structures and algorithms.",
+    "linkedin": "https://www.linkedin.com/in/awasthiakshit11/",
+    "github": "https://github.com/akshi2000",
+    "image": "https://media-exp1.licdn.com/dms/image/C5103AQFmVp32wCBCZQ/profile-displayphoto-shrink_800_800/0/1580645801300?e=1612396800&v=beta&t=tfKy7xYxJO4uPWsBfRf298W740lZWy-iX83cbhi0-9U"
+  },
+  {
+    "name": "Abhinav Singh",
+    "role": "Programmer",
+    "bio": "Hello , I am Abhinav Singh , data structure and algorithms enthusiast , a competitive programmer and a backend developer , having  fun with the techs and working on them to sharpen my skills.",
+    "linkedin": "https://www.linkedin.com/in/geekyabhi",
+    "github": "https://github.com/geekyabhi",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFqEjqHnjfJGg/profile-displayphoto-shrink_800_800/0/1602937020753?e=1612396800&v=beta&t=7ITDkVd0T4jhetbbkbLRNah9nWPNWgJ6aZn_aviHtIQ"
+  },
+  {
+    "name": "Swarina Jaiswal",
+    "role": "Programmer",
+    "bio": "I'm a competitive programmer and an enthusiastic learner. I want to pave my way building solutions for our community. ",
+    "linkedin": "https://in.linkedin.com/in/swarina-jaiswal",
+    "github": "https://github.com/swarina",
+    "image": "https://avatars3.githubusercontent.com/u/56193323?s=460&u=bd8f1666cfb2867c30be9c9dd446f10d0c981f77&v=4"
+  },
+  {
+    "name": "Nakul Shrama",
+    "role": "Programmer",
+    "bio": "Competitive Programmer | Android Developer",
+    "linkedin": "https://www.linkedin.com/in/nakul-19/",
+    "github": "https://github.com/nakul-19",
+    "image": "https://avatars0.githubusercontent.com/u/57036954?s=460&u=8bc06bf0ee8abcb0d31524baf4548fc879291989&v=4"
+  },
+  {
+    "name": "Yash Garg",
+    "role": "Front-End Web Developer",
+    "bio": "I am a self taught programmer proficient in designing and developing appealing  websites and web apps. I am learning to improve my DSA and applying them to real life problems.",
+    "linkedin": "https://www.linkedin.com/in/yash-garg-6012461a1",
+    "github": "https://github.com/yash0501",
+    "image": "https://avatars3.githubusercontent.com/u/60708843?s=460&u=139ea0132db66e067c8643903cede146ef9102e8&v=4"
+  },
+  {
+    "name": "Vani Singh",
+    "role": "Web Developer",
+    "bio": "I'm a self motivated student eager to leverage my academic foundation in the field of web development.I am very enthusiastic about taking on new projects and putting in time to make a well done app/website.",
+    "linkedin": "https://www.linkedin.com/in/vani-singh-2291531a4",
+    "github": "https://github.com/vanisingh-24",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGn7GccbKM5Ow/profile-displayphoto-shrink_800_800/0/1584278723980?e=1612396800&v=beta&t=cYYh5hLaTpaNRt2qA-kENUSYQa7f7v5gfwhm5K67igc"
+  },
+  {
+    "name": "Akansha Singh",
+    "role": "Designer",
+    "bio": "Designer",
+    "linkedin": "https://www.linkedin.com/in/akanksha-singh-6b60941a5/",
+    "github": "https://www.behance.net/akankshasingh121800",
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQGycHUbnuj8dw/profile-displayphoto-shrink_800_800/0/1595616687969?e=1612396800&v=beta&t=2LNkrupyRiREI-Ec-o_O0i6ZG1go5f8CGW5TADpkX6I"
+  },
+  {
+    "name": "Aditya Gupta",
+    "role": "Designer",
+    "bio": "Designer",
+    "linkedin": "https://www.linkedin.com/in/aditya-gupta-15b1141a4/",
+    "github": "https://www.behance.net/adityagupta15",
+    "image": "https://media-exp1.licdn.com/dms/image/C5635AQHeJEwljK_jaQ/profile-framedphoto-shrink_800_800/0?e=1607119200&v=beta&t=3pfZYbA07NqaO5mi-B3WPmv-VFrHlTt4fGk-Kz9UEzA"
+  },
+  {
+    "name": "Dhruv Baliyan",
+    "role": "Programmer",
+    "bio": "I'm a second year student. Programmer and android developer (kotlin) at DSC JSS.",
+    "linkedin": "https://www.linkedin.com/in/dhruvbaliyan1001",
+    "github": "https://github.com/dhruv-1001",
+    "image": "https://media-exp1.licdn.com/dms/image/C4D03AQFpULyvkeQvmg/profile-displayphoto-shrink_800_800/0?e=1612396800&v=beta&t=odm3SLxvQtRKqWmpPw1xOiG79Wi9499fNf6bIz74D6U"
   }
 ]

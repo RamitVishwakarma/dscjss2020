@@ -135,8 +135,8 @@ body {
 }
 .member__img {
   position: relative;
-  width: 260px;
-  height: 291px;
+  width: 300px;
+  height: 300px;
   margin-bottom: 28px;
   border-radius: 10px;
 }
@@ -159,6 +159,7 @@ body {
   margin-left: 10px;
   margin-top: 20px;
   margin-right: 2px;
+  padding: 20px;
 }
 .content__overlay span {
   font-size: 17px;
@@ -185,6 +186,8 @@ body {
 .member__social img {
   width: 20px;
   height: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
   border-radius: none !important;
 }
 .member__img:hover .content__overlay {

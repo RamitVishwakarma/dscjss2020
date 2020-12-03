@@ -1,7 +1,7 @@
 import React from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
-import Member from "../assets/img/team/test.png";
+// import Member from "../assets/img/team/test.png";
 import TeamData from "../assets/data/team.json";
 import In from "../assets/img/in.svg";
 import Fb from "../assets/img/fb.svg";
@@ -18,7 +18,7 @@ function Team() {
         <div className="page__headline">
           <span className="page__heading">Meet the Geeks</span>
           <span className="page__content">
-            Our aim is to learn and teach.
+            We're a team of
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>
               {" "}
               Developers
@@ -33,8 +33,8 @@ function Team() {
               {" "}
               Programmers{" "}
             </span>
-            come together under one roof to create a community which inspires
-            thousands
+            who work independently towards learning, contributing and
+            collaborating in unison.
           </span>
         </div>
         <Lottie
@@ -48,7 +48,7 @@ function Team() {
         {TeamData.map((member, index) => (
           <div className="team__card">
             <div className="member__img">
-              <img src={Member} alt="" className="display__img" />
+              <img src={member.image} alt="" className="display__img" />
               <div className="content__overlay">
                 <div className="overlay__content">
                   <span>{member.bio}</span>
