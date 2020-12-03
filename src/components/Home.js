@@ -4,6 +4,7 @@ import TeamAnim from "../assets/animation/TeamAnim.json";
 import { Link } from "react-router-dom";
 import codesandbox from "../assets/img/codesandbox.svg";
 import Clubs from "./Clubs";
+import Join from "./Join";
 
 function Home() {
   const defaultOptions = {
@@ -50,6 +51,7 @@ function Home() {
         />
       </div>
       <Clubs />
+      <Join />
     </>
   );
 }

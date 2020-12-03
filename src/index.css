@@ -341,3 +341,47 @@ body {
   flex-grow: 0;
   margin: 24px 0px;
 }
+
+.card {
+  box-shadow: 0px 4px 52px rgba(70, 74, 140, 0.24);
+  border-radius: 10px;
+  color: white;
+  padding: 30px;
+  margin: 50px;
+}
+
+.slack-card {
+  background: linear-gradient(103.39deg, #5d1f5f 0%, #4a154b 101.05%);
+}
+
+.discord-card {
+  background: linear-gradient(102.26deg, #7289da -11.29%, #556ec8 95.67%);
+}
+
+.telegram-card {
+  background: linear-gradient(102.26deg, #20a0e1 -11.29%, #2890c6 95.67%);
+}
+
+.mail-card {
+  background: linear-gradient(103.39deg, #ea4335 0%, #c5221f 101.05%);
+}
+
+.btn-join {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 14px 60px;
+  width: 195px;
+  height: 51px;
+  left: 304px;
+  top: 1926px;
+  background: #f2f2f2;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.btn-join p {
+  padding-top: 20px;
+  margin-left: 10px;
+  font-weight: lighter !important;
+}
