@@ -1,6 +1,8 @@
 import React from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
+import { Link } from "react-router-dom";
+import codesandbox from "../assets/img/codesandbox.svg";
 
 function Home() {
   const defaultOptions = {
@@ -32,6 +34,12 @@ function Home() {
             come together under one roof to create a community which inspires
             thousands
           </span>
+          <Link to="/">
+            <button type="button" className="btn btn-primary join-us-btn">
+              <img src={codesandbox} className="codesandbox" alt="icon" />
+              <p>Join Us</p>
+            </button>
+          </Link>
         </div>
         <Lottie
           options={defaultOptions}
