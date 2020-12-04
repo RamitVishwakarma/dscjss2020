@@ -4,7 +4,8 @@ import { useEffect } from "react";
 function Events() {
   useEffect(() => {
     const script = document.createElement("script");
-    script.src = "https://www.instagram.com/embed.js";
+    script.src =
+      "https://www.instagram.com/static/bundles/es6/EmbedSDK.js/363a6c0267bf.js";
     script.async = true;
     document.body.appendChild(script);
     if (window.instgrm) window.instgrm.Embeds.process();
