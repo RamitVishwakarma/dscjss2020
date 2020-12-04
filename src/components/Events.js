@@ -14,7 +14,7 @@ function Events() {
           </p>
         </div>
       </div>
-      <div className="container">
+      <div className="container mb-5">
         <div className="row">
           <div className="col-xs-12 col-sm-6 col-md-4">
             <div className="project-box">
@@ -22,6 +22,7 @@ function Events() {
                 className="instagram-media"
                 data-instgrm-permalink="https://www.instagram.com/p/CIQts2CnUb3/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
+                crossOrigin="anonymous"
                 style={{
                   background: "#FFF",
                   border: "0",
@@ -30,9 +31,9 @@ function Events() {
                     "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
                   margin: "1px",
                   maxWidth: "540px",
-                  minWidth: "326px",
-                  padding: "0",
-                  width: "99.375%",
+                  minWidth: "320px",
+                  padding: "20px",
+                  width: "95%",
                 }}
               ></blockquote>
             </div>
@@ -43,6 +44,7 @@ function Events() {
                 className="instagram-media"
                 data-instgrm-permalink="https://www.instagram.com/p/CH-v2q0nIBP/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
+                crossOrigin="anonymous"
                 style={{
                   background: "#FFF",
                   border: "0",
@@ -64,6 +66,7 @@ function Events() {
                 className="instagram-media"
                 data-instgrm-permalink="https://www.instagram.com/p/CFuV88lnnKw/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
+                crossOrigin="anonymous"
                 style={{
                   background: "#FFF",
                   border: "0",
@@ -83,6 +86,7 @@ function Events() {
             <div className="project-box">
               <blockquote
                 className="instagram-media"
+                crossOrigin="anonymous"
                 data-instgrm-permalink="https://www.instagram.com/p/CFpRz4Bn0K3/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
                 style={{
@@ -106,7 +110,7 @@ function Events() {
                 className="instagram-media"
                 data-instgrm-permalink="https://www.instagram.com/p/CBdzkr5HXqg/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
-                crossorigin="anonymous"
+                crossOrigin="anonymous"
                 style={{
                   background: "#FFF",
                   border: "0",
@@ -126,6 +130,7 @@ function Events() {
             <div className="project-box">
               <blockquote
                 className="instagram-media"
+                crossOrigin="anonymous"
                 data-instgrm-permalink="https://www.instagram.com/p/B8nZpg2nkOV/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
                 style={{
