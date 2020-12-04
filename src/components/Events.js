@@ -22,7 +22,7 @@ function Events() {
           </p>
         </div>
       </div>
-      <div className="container mb-5 p-5">
+      <div className="container-fluid mb-5 ml-auto p-3">
         <div className="row">
           <div className="col-xs-12 col-sm-6 col-md-4">
             <div className="project-box">
