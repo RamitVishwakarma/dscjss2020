@@ -7,20 +7,20 @@ function Clubs() {
   return (
     <>
       <div className="flex__row">
-        <h3 style={{ marginLeft: "75px" }}>
+        <h2 style={{ marginLeft: "50px" }} className="club-headline">
           <p>
             What we <span style={{ color: "#F4B400" }}>Dooooooo!</span>
           </p>
-        </h3>
+        </h2>
       </div>
-      <div className="row ml-3 mr-3 mb-5">
-        <div className="col-md-3 col-sm-6 ml-5 mb-5">
+      <div className="row mb-5">
+        <div className="col-md-3 col-sm-6 ml-5 mr-5 mb-5">
           <Development />
         </div>
-        <div className="col-md-3 col-sm-6 ml-5 mb-5">
+        <div className="col-md-3 col-sm-6 ml-5 mr-5 mb-5">
           <Programming />
         </div>
-        <div className="col-md-3 col-sm-6 ml-5 mb-5">
+        <div className="col-md-3 col-sm-6 ml-5 mr-5 mb-5">
           <Design />
         </div>
       </div>
