@@ -106,6 +106,7 @@ function Events() {
                 className="instagram-media"
                 data-instgrm-permalink="https://www.instagram.com/p/CBdzkr5HXqg/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="13"
+                crossorigin="anonymous"
                 style={{
                   background: "#FFF",
                   border: "0",

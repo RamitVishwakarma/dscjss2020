@@ -4,7 +4,7 @@ import TeamAnim from "../assets/animation/TeamAnim.json";
 // import Member from "../assets/img/team/test.png";
 import TeamData from "../assets/data/team.json";
 import In from "../assets/img/in.svg";
-import Fb from "../assets/img/fb.svg";
+import github from "../assets/img/github.svg";
 
 function Team() {
   const defaultOptions = {
@@ -57,7 +57,7 @@ function Team() {
                       <img src={In} alt="LinkedIn" />
                     </a>
                     <a href={member.github}>
-                      <img src={Fb} alt="Facebook" />
+                      <img src={github} alt="GitHub" />
                     </a>
                   </div>
                 </div>
