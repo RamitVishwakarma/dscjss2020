@@ -14,13 +14,13 @@ function Clubs() {
         </h3>
       </div>
       <div className="row ml-3 mr-3 mb-5">
-        <div className="col ml-5 mb-5">
+        <div className="col-md-3 col-sm-6 ml-5 mb-5">
           <Development />
         </div>
-        <div className="col ml-5 mb-5">
+        <div className="col-md-3 col-sm-6 ml-5 mb-5">
           <Programming />
         </div>
-        <div className="col ml-5 mb-5">
+        <div className="col-md-3 col-sm-6 ml-5 mb-5">
           <Design />
         </div>
       </div>

@@ -44,9 +44,9 @@ function Home() {
         </div>
         <Lottie
           options={defaultOptions}
-          height={700}
+          // height={700}
           width={700}
-          style={{ margin: "0px", maxWidth: "100%", padding: "60px" }}
+          // style={{ margin: "0px", maxWidth: "100%", padding: "60px" }}
         />
       </div>
       <Clubs />

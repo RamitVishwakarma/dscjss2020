@@ -5,7 +5,7 @@ function JoinMail() {
   return (
     <>
       <div className="mail-card card">
-        <h3 className="mb-3">Subscribe our newsletter</h3>
+        <h3 className="mb-3">Join our community</h3>
         <p className="mb-5">
           Access to a global network of student leaders, professional community
           organizers, industry experts, and Googlers to gain mentorship and
