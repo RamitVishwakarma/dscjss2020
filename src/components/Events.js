@@ -1,6 +1,14 @@
 import React from "react";
+import { useEffect } from "react";
 
 function Events() {
+  useEffect(() => {
+    const script = document.createElement("script");
+    script.src = "http://www.instagram.com/embed.js";
+    script.async = true;
+    document.body.appendChild(script);
+    if (window.instgrm) window.instgrm.Embeds.process();
+  }, []);
   return (
     <>
       <div className="flex__row">
@@ -14,7 +22,7 @@ function Events() {
           </p>
         </div>
       </div>
-      <div className="container mb-5">
+      <div className="container mb-5 p-5">
         <div className="row">
           <div className="col-xs-12 col-sm-6 col-md-4">
             <div className="project-box">
