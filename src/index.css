@@ -8,6 +8,9 @@ body {
   left: 0;
   margin: 0;
 }
+a {
+  text-decoration: none !important;
+}
 #root {
   display: flex;
   justify-content: center;
@@ -390,7 +393,7 @@ body {
   flex-direction: row;
   align-items: center;
   padding: 14px 60px;
-  width: 195px;
+  width: 230px;
   height: 51px;
   left: 304px;
   top: 1926px;
@@ -402,6 +405,7 @@ body {
 .btn-join p {
   padding-top: 20px;
   margin-left: 10px;
+  margin-right: 20px;
   font-weight: lighter !important;
 }
 
@@ -507,5 +511,19 @@ body {
   }
   .lottie {
     margin-left: -20px !important;
+  }
+  .btn-join {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 200px;
+    height: 51px;
+    left: 304px;
+    top: 1926px;
+    background: #f2f2f2;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
   }
 }
