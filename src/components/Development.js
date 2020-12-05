@@ -30,8 +30,8 @@ function Development() {
         Development
       </h4>
       <p style={{ color: "#4f4f4f" }} className="mobile-para">
-        We're a community to help web developers by providing them helpful
-        resources and giving an experience of open source contribution.
+        We're a community to help developers by providing them helpful resources
+        and giving an experience of open source contribution.
       </p>
     </>
   );
