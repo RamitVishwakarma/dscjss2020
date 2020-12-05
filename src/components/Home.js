@@ -35,7 +35,11 @@ function Home() {
             who grow their knowledge in a peer-to-peer learning environment and
             build solutions for local businesses and their community.
           </span>
-          <a href="https://dsc.community.dev/jss-academy-of-technical-education-noida/">
+          <a
+            href="https://dsc.community.dev/jss-academy-of-technical-education-noida/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <button type="button" className="btn btn-primary join-us-btn">
               <img src={codesandbox} className="codesandbox" alt="icon" />
               <p>Join Us</p>

@@ -11,7 +11,11 @@ function JoinMail() {
           organizers, industry experts, and Googlers to gain mentorship and
           share knowledge.
         </p>
-        <a href="https://dsc.community.dev/jss-academy-of-technical-education-noida/">
+        <a
+          href="https://dsc.community.dev/jss-academy-of-technical-education-noida/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button type="button" className="btn btn-join">
             <img src={gmail} className="codesandbox" alt="icon" />
             <p>Subscribe</p>

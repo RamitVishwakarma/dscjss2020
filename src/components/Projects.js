@@ -90,6 +90,8 @@ function Projects() {
               </div>
               <a
                 href="https://github.com/DSC-JSS-NOIDA/Zealicon"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="view-btn mt-3"
               >
                 View Project
@@ -132,6 +134,8 @@ function Projects() {
               </div>
               <a
                 href="https://github.com/DSC-JSS-NOIDA/DSC-Folios"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="view-btn mt-3"
               >
                 View Project
@@ -172,6 +176,8 @@ function Projects() {
               </div>
               <a
                 href="https://github.com/DSC-JSS-NOIDA/Plasma-Donor-App"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="view-btn mt-3"
               >
                 View Project
@@ -213,6 +219,8 @@ function Projects() {
               <a
                 href="https://github.com/tronku/Evento"
                 className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 View Project
               </a>
@@ -252,6 +260,8 @@ function Projects() {
               <a
                 href="https://github.com/DSC-JSS-NOIDA/Line-up"
                 className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 View Project
               </a>
@@ -292,6 +302,8 @@ function Projects() {
               <a
                 href="https://github.com/DSC-JSS-NOIDA/Udhaari"
                 className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 View Project
               </a>
@@ -332,6 +344,8 @@ function Projects() {
               <a
                 href="https://github.com/DSC-JSS-NOIDA/Sudoku"
                 className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 View Project
               </a>
@@ -371,6 +385,8 @@ function Projects() {
               <a
                 href="https://github.com/DSC-JSS-NOIDA/foss-events"
                 className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 View Project
               </a>
@@ -411,6 +427,8 @@ function Projects() {
               <a
                 href="https://github.com/naman360/post-generator"
                 className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 View Project
               </a>

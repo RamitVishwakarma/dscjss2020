@@ -11,7 +11,11 @@ function JoinTelegram() {
           hackathons, workshops etc alongwith a regular tinge of useful
           resources to aid your develper journey!
         </p>
-        <a href="https://t.me/DSCJSSATEN">
+        <a
+          href="https://t.me/DSCJSSATEN"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button type="button" className="btn btn-join">
             <img src={telegram} className="codesandbox" alt="icon" />
             <p>Telegram</p>

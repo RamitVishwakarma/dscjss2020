@@ -11,7 +11,11 @@ function JoinSlack() {
           by bringing all of communication, resources, and event updates into
           one place.
         </p>
-        <a href="https://join.slack.com/t/dscjssnoida/shared_invite/zt-jhpjeyjq-BlqVx7IsMny0L38blmY7Og">
+        <a
+          href="https://join.slack.com/t/dscjssnoida/shared_invite/zt-jhpjeyjq-BlqVx7IsMny0L38blmY7Og"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button type="button" className="btn btn-join">
             <img src={slack} className="codesandbox" alt="icon" />
             <p>Slack</p>

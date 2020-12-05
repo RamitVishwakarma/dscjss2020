@@ -11,7 +11,11 @@ function JoinDiscord() {
           pop in and out of voice and video conversations throughout the day.
           Play games, have fun and enjoy geek time with us
         </p>
-        <a href="https://discord.com/invite/EBgD52V2hM">
+        <a
+          href="https://discord.com/invite/EBgD52V2hM"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button type="button" className="btn btn-join">
             <img src={discord} className="codesandbox" alt="icon" />
             <p>Discord</p>

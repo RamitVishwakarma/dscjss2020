@@ -16,22 +16,46 @@ function Footer() {
           <img src={Logo} alt="dscjss" />
         </div>
         <div className="icon-tray">
-          <a href="https://www.linkedin.com/company/dsc-jssaten/">
+          <a
+            href="https://www.linkedin.com/company/dsc-jssaten/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={linkedin} alt="linkedin" />
           </a>
-          <a href="https://www.instagram.com/dscjssaten/">
+          <a
+            href="https://www.instagram.com/dscjssaten/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={instagram} alt="instagram" />
           </a>
-          <a href="https://twitter.com/dscjssaten?lang=en">
+          <a
+            href="https://twitter.com/dscjssaten?lang=en"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={twitter} alt="twitter" />
           </a>
-          <a href="https://medium.com/dsc-jss-noida">
+          <a
+            href="https://medium.com/dsc-jss-noida"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={medium} alt="medium" />
           </a>
-          <a href="https://github.com/DSC-JSS-NOIDA">
+          <a
+            href="https://github.com/DSC-JSS-NOIDA"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={github} alt="github" />
           </a>
-          <a href="https://www.youtube.com/channel/UCkELk5JFDceaSf8pBa19kDQ">
+          <a
+            href="https://www.youtube.com/channel/UCkELk5JFDceaSf8pBa19kDQ"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src={youtube} alt="youtube" />
           </a>
         </div>

@@ -53,10 +53,18 @@ function Team() {
                 <div className="overlay__content">
                   <span>{member.bio}</span>
                   <div className="member__social">
-                    <a href={member.linkedin}>
+                    <a
+                      href={member.linkedin}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <img src={In} alt="LinkedIn" />
                     </a>
-                    <a href={member.github}>
+                    <a
+                      href={member.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
                       <img src={github} alt="GitHub" />
                     </a>
                   </div>
