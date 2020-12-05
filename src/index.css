@@ -354,23 +354,35 @@ body {
   border-radius: 10px;
   color: white;
   padding: 30px;
-  margin: 50px;
+  /* margin: 50px; */
 }
 
 .slack-card {
   background: linear-gradient(103.39deg, #5d1f5f 0%, #4a154b 101.05%);
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 
 .discord-card {
   background: linear-gradient(102.26deg, #7289da -11.29%, #556ec8 95.67%);
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 15px;
 }
 
 .telegram-card {
   background: linear-gradient(102.26deg, #20a0e1 -11.29%, #2890c6 95.67%);
+  margin-left: 30px;
+  margin-top: 15px;
+  margin-bottom: 30px;
 }
 
 .mail-card {
   background: linear-gradient(103.39deg, #ea4335 0%, #c5221f 101.05%);
+  margin-right: 30px;
+  margin-top: 15px;
+  margin-bottom: 30px;
 }
 
 .btn-join {

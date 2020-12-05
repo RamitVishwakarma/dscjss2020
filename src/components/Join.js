@@ -8,7 +8,10 @@ function Join() {
   return (
     <>
       <div className="flex__row mb-5">
-        <h2 style={{ marginLeft: "50px" }} className="join-headline">
+        <h2
+          style={{ marginLeft: "50px", marginBottom: "-60px" }}
+          className="join-headline"
+        >
           <p>
             Let's discuss{" "}
             <span style={{ color: "rgb(15, 157, 88)" }}>Stuffsssssss!</span>

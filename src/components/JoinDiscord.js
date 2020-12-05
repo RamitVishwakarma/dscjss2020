@@ -9,6 +9,7 @@ function JoinDiscord() {
         <p className="mb-5">
           Ready to hang out? Grab a seat in a voice channel. Designed so you can
           pop in and out of voice and video conversations throughout the day.
+          Play games, have fun and enjoy geek time with us
         </p>
         <a href="https://discord.com/invite/EBgD52V2hM">
           <button type="button" className="btn btn-join">
