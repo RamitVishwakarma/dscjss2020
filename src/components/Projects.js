@@ -1,15 +1,15 @@
 import React from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
-import Zealicon from "../assets/img/projects/ZealiconApp.svg";
-import DSCFolios from "../assets/img/projects/DSCFolios.svg";
-import Evento from "../assets/img/projects/Evento.svg";
-import FossEvents from "../assets/img/projects/FossEvents.svg";
-import LineUp from "../assets/img/projects/Lineup.svg";
-import PlasmaDonor from "../assets/img/projects/PlasmaDonor.svg";
-import Snappify from "../assets/img/projects/Snappify.svg";
-import UdhariApp from "../assets/img/projects/UdhariApp.svg";
-import UdhariApp1 from "../assets/img/projects/UdhariApp1.svg";
+// import Zealicon from "../assets/img/projects/ZealiconApp.svg";
+// import DSCFolios from "../assets/img/projects/DSCFolios.svg";
+// import Evento from "../assets/img/projects/Evento.svg";
+// import FossEvents from "../assets/img/projects/FossEvents.svg";
+// import LineUp from "../assets/img/projects/Lineup.svg";
+// import PlasmaDonor from "../assets/img/projects/PlasmaDonor.svg";
+// import Snappify from "../assets/img/projects/Snappify.svg";
+// import UdhariApp from "../assets/img/projects/UdhariApp.svg";
+// import UdhariApp1 from "../assets/img/projects/UdhariApp1.svg";
 import mongo from "../assets/img/tech/Mongo.svg";
 import node from "../assets/img/tech/node.svg";
 import php from "../assets/img/tech/PHP.svg";
@@ -69,7 +69,7 @@ function Projects() {
               }}
             >
               <img
-                src={Zealicon}
+                src="https://i.ibb.co/RbSCG8C/Zealicon-app.png"
                 alt="zealicon"
                 style={{
                   height: "370px",
@@ -110,7 +110,7 @@ function Projects() {
               }}
             >
               <img
-                src={DSCFolios}
+                src="https://i.ibb.co/f88774c/Dsc-Folios.png"
                 alt="DSC Folios"
                 style={{
                   height: "370px",
@@ -154,7 +154,7 @@ function Projects() {
               }}
             >
               <img
-                src={PlasmaDonor}
+                src="https://i.ibb.co/gWxLVXB/Plasma-Doner.png"
                 alt="Plasma Donor"
                 style={{
                   height: "370px",
@@ -196,7 +196,7 @@ function Projects() {
               }}
             >
               <img
-                src={Evento}
+                src="https://i.ibb.co/jwHKDR4/Evento.png"
                 alt="Evento"
                 style={{
                   height: "370px",
@@ -238,7 +238,7 @@ function Projects() {
               }}
             >
               <img
-                src={LineUp}
+                src="https://i.ibb.co/94ZqF3P/Line-up.png"
                 alt="Line Up"
                 style={{
                   height: "370px",
@@ -279,7 +279,7 @@ function Projects() {
               }}
             >
               <img
-                src={UdhariApp}
+                src="https://i.ibb.co/jD9D8Zm/Udhari-app.png"
                 alt="Udhaari"
                 style={{
                   height: "370px",
@@ -321,7 +321,7 @@ function Projects() {
               }}
             >
               <img
-                src={UdhariApp1}
+                src="https://i.ibb.co/kJC4HBb/Udhari-app-1.png"
                 alt="Sudoku"
                 style={{
                   height: "370px",
@@ -363,7 +363,7 @@ function Projects() {
               }}
             >
               <img
-                src={FossEvents}
+                src="https://i.ibb.co/Kw2PWtP/Foss-Events.png"
                 alt="Foss Events"
                 style={{
                   height: "370px",
@@ -404,7 +404,7 @@ function Projects() {
               }}
             >
               <img
-                src={Snappify}
+                src="https://i.ibb.co/JH0d7mN/Snappify.png"
                 alt="Snappify"
                 style={{
                   height: "370px",
