@@ -17,11 +17,11 @@ import react from "../assets/img/tech/react.svg";
 import bootstrap from "../assets/img/tech/Bootstrap.svg";
 import firebase from "../assets/img/tech/firebase.svg";
 import kotlin from "../assets/img/tech/Kotlin.svg";
+import java from "../assets/img/tech/Java.svg";
 // import android from "../assets/img/tech/android.svg";
 // import css from "../assets/img/tech/css.svg";
 // import figma from "../assets/img/tech/figma.svg";
 // import html from "../assets/img/tech/html.svg";
-// import java from "../assets/img/tech/Java.svg";
 // import javascript from "../assets/img/tech/Javascript.svg";
 // import laravel from "../assets/img/tech/Laravel.svg";
 
@@ -245,7 +245,7 @@ function Projects() {
                 by a lot of students.{" "}
               </p>
               <div className="mb-3">
-                <img src={kotlin} alt="kotlin" />
+                <img src={java} alt="java" />
                 <img src={firebase} alt="firebase" />
                 {/* <img src={figma} alt="figma" /> */}
               </div>
@@ -285,7 +285,7 @@ function Projects() {
                 owner.{" "}
               </p>
               <div className="mb-3">
-                <img src={kotlin} alt="kotlin" />
+                <img src={java} alt="java" />
                 <img src={firebase} alt="firebase" />
                 {/* <img src={figma} alt="figma" /> */}
               </div>
