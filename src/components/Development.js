@@ -23,8 +23,13 @@ function Development() {
           }}
         />
       </div>
-      <h4 style={{ marginBottom: "20px", marginTop: "20px" }}>Development</h4>
-      <p style={{ color: "#4f4f4f" }}>
+      <h4
+        style={{ marginBottom: "20px", marginTop: "20px" }}
+        className="mobile-para"
+      >
+        Development
+      </h4>
+      <p style={{ color: "#4f4f4f" }} className="mobile-para">
         We're a community to help web developers by providing them helpful
         resources and giving an experience of open source contribution.
       </p>

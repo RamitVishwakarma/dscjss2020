@@ -23,8 +23,13 @@ function Design() {
           }}
         />
       </div>
-      <h4 style={{ marginBottom: "20px", marginTop: "20px" }}>Designing</h4>
-      <p style={{ color: "#4f4f4f" }}>
+      <h4
+        style={{ marginBottom: "20px", marginTop: "20px" }}
+        className="mobile-para"
+      >
+        Designing
+      </h4>
+      <p style={{ color: "#4f4f4f" }} className="mobile-para">
         We're a vibrant community for anyone who cares for design. We share
         stories, uncover insights, surface opportunities in Design.
       </p>

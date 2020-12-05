@@ -23,8 +23,13 @@ function Programming() {
           }}
         />
       </div>
-      <h4 style={{ marginBottom: "20px", marginTop: "20px" }}>Programming</h4>
-      <p style={{ color: "#4f4f4f" }}>
+      <h4
+        style={{ marginBottom: "20px", marginTop: "20px" }}
+        className="mobile-para"
+      >
+        Programming
+      </h4>
+      <p style={{ color: "#4f4f4f" }} className="mobile-para">
         We're a hub of coders and programmers who help solve coding problems,
         develop new skills, and develop your career path.
       </p>
