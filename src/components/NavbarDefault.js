@@ -28,7 +28,7 @@ function NavbarDefault() {
           </IconContext.Provider>
         )}
 
-        <Sidebar isOpen={isOpen} />
+        <Sidebar isOpen={isOpen} handleOpen={handleOpen} />
       </MediaQuery>
       <div className="navbar__content">
         <Link
@@ -66,6 +66,8 @@ function NavbarDefault() {
         <a
           href="https://www.instagram.com/dscjssaten/"
           className="nav__links primary-btn"
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Connect
         </a>

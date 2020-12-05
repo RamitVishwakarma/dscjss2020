@@ -46,7 +46,7 @@ function Team() {
       </div>
       <div className="team__container">
         {TeamData.map((member, index) => (
-          <div className="team__card">
+          <div className="team__card" key={member.id}>
             <div className="member__img">
               <img src={member.image} alt="" className="display__img" />
               <div className="content__overlay">
