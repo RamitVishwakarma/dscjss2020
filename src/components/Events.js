@@ -1,7 +1,14 @@
 import React from "react";
 import { useEffect } from "react";
+import Lottie from "react-lottie";
+import TeamAnim from "../assets/animation/TeamAnim.json";
 
 function Events() {
+  const defaultOptions = {
+    loop: true,
+    autoplay: true,
+    animationData: TeamAnim,
+  };
   useEffect(() => {
     const script = document.createElement("script");
     script.src =
@@ -12,7 +19,7 @@ function Events() {
   }, []);
   return (
     <>
-      <div className="flex__row">
+      {/* <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Events we align</span>
           <p style={{ fontSize: "18px" }}>
@@ -22,6 +29,24 @@ function Events() {
             everyone and anyone interested in tech!
           </p>
         </div>
+      </div> */}
+      <div className="flex__row">
+        <div className="page__headline">
+          <span className="page__heading">Events we align</span>
+          <span className="page__content">
+            {" "}
+            We organize amazing events on a wide range of technical topics where
+            you can learn new skills through hands-on workshops and take pride
+            on nurturing an inclusive environment for everyone and anyone
+            interested in tech!
+          </span>
+        </div>
+        <Lottie
+          options={defaultOptions}
+          // height={700}
+          width={700}
+          // style={{ margin: "0px", maxWidth: "100%", padding: "60px" }}
+        />
       </div>
       <div className="container-fluid mb-5 ml-auto p-3">
         <div className="row">
@@ -41,8 +66,8 @@ function Events() {
                   margin: "1px",
                   maxWidth: "540px",
                   minWidth: "326px",
-                  padding: "20px",
-                  width: "95%",
+                  padding: "0",
+                  width: "99.375%",
                 }}
               ></blockquote>
             </div>
