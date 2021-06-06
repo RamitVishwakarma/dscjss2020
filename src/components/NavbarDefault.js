@@ -63,22 +63,14 @@ function NavbarDefault() {
         >
           Events
         </Link>
-        <Link
-          to="/register"
-          className={`nav__links primary-btn ${
-            location.pathname === "/register" ? "active_link" : ""
-          }`}
-        >
-          Register
-        </Link>
-        {/* <a
+        <a
           href="https://www.instagram.com/dscjssaten/"
           className="nav__links primary-btn"
           target="_blank"
           rel="noopener noreferrer"
         >
           Connect
-        </a> */}
+        </a>
       </div>
     </div>
   );

@@ -7,7 +7,6 @@ import NavbarDefault from "./NavbarDefault";
 import Home from "./Home";
 import Footer from "./Footer";
 import Events from "./Events";
-import Register from "./Register";
 
 function App() {
   return (
@@ -20,7 +19,6 @@ function App() {
         <Route exact path="/team" component={Team} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/events" component={Events} />
-        <Route exact path="/register" component={Register} />
       </Switch>
       <Footer />
     </div>

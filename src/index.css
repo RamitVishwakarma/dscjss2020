@@ -527,19 +527,3 @@ a {
     border-radius: 5px;
   }
 }
-
-/* Register Form */
-
-.register {
-  width: 100%;
-  max-width: 370px;
-  height: 2300px;
-}
-
-@media only screen and (min-width: 800px) {
-  .register {
-    width: 800px;
-    max-width: 850px;
-    height: 2100px;
-  }
-}
