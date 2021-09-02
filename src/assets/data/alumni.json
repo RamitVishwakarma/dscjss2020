@@ -1,24 +1,24 @@
 [
-  {
+    {
     "id": "1",
-    "name": "Deshraj Yadav",
-    "bio": "",
-    "linkedin": "https://www.linkedin.com/in/deshrajdry/",
-    "github": "https://github.com/deshraj",
-    "image": "https://avatars.githubusercontent.com/u/2945708?v=4"
-  },
-  {
-    "id": "2",
     "name": "Taranjeet Singh",
-    "bio": "",
+    "batch": "2015",
     "linkedin": "https://www.linkedin.com/in/taranjeet7114/",
     "github": "https://github.com/taranjeet",
     "image": "https://avatars.githubusercontent.com/u/4302268?v=4"
   },
   {
+    "id": "2",
+    "name": "Deshraj Yadav",
+    "batch": "2016",
+    "linkedin": "https://www.linkedin.com/in/deshrajdry/",
+    "github": "https://github.com/deshraj",
+    "image": "https://avatars.githubusercontent.com/u/2945708?v=4"
+  },
+  {
     "id": "3",
     "name": "Himanshu Agarwal",
-    "bio": "",
+    "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/codehimanshu/",
     "github": "https://github.com/codehimanshu",
     "image": "https://avatars.githubusercontent.com/u/14791631?v=4"
@@ -26,7 +26,7 @@
   {
     "id": "4",
     "name": "Mayank Chauhan",
-    "bio": "",
+    "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/makchan15/",
     "github": "https://github.com/MakChan",
     "image": "https://avatars.githubusercontent.com/u/16956850?v=4"
@@ -34,7 +34,7 @@
   {
     "id": "5",
     "name": "Hargovind Arora",
-    "bio": "",
+    "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/hargovindarora04",
     "github": "https://github.com/HargovindArora",
     "image": "https://avatars.githubusercontent.com/u/22341493?v=4"
@@ -42,7 +42,7 @@
   {
     "id": "6",
     "name": "Animesh Seemendra",
-    "bio": "",
+    "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/animeshseemendra",
     "github": "https://github.com/animeshseemendra",
     "image": "https://avatars.githubusercontent.com/u/22393566?v=4"
@@ -50,39 +50,39 @@
   {
     "id": "7",
     "name": "Shubham Pathak",
-    "bio": "",
+    "batch": "2021",
     "linkedin": "https://in.linkedin.com/in/tronku",
     "github": "https://github.com/tronku",
-    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQESKVPF-YphjQ/profile-displayphoto-shrink_200_200/0/1606805549067?e=1635379200&v=beta&t=eEO-HNy9Ous8i9Do7BfQx7M2dy3q4LzidnyelAikYtk"
+    "image": "https://user-images.githubusercontent.com/56193323/131889105-d775014b-1871-4ee3-a8e2-6b48d90678a9.jpeg"
   },
   {
     "id": "8",
     "name": "Utkarsh Srivastava",
-    "bio": "",
+    "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/utkarsh7998/",
     "github": "https://github.com/utkarsh7998",
-    "image": "https://media-exp1.licdn.com/dms/image/C5103AQE8Xd0cMg6V9g/profile-displayphoto-shrink_200_200/0/1533802115567?e=1635379200&v=beta&t=uXQ6shCzSXxMntv0Xde93zDqg3LP3liHZllJb-3cGnE"
+    "image": "https://user-images.githubusercontent.com/56193323/131889114-3fb78c14-d7bc-4883-94af-2fa6da7ab813.jpeg"
   },
   {
     "id": "9",
     "name": "Radhika Bajaj",
-    "bio": "",
+    "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/radhika-bajaj/",
     "github": "https://github.com/radhikabajaj",
-    "image": ""
+    "image": "https://user-images.githubusercontent.com/56193323/131891668-e3e96e3a-bb1d-4172-b680-d394c9a9585d.jpg"
   },
   {
     "id": "10",
     "name": "Pulkit Jatav",
-    "bio": "",
+    "batch": "2021",
     "linkedin": "https://linkedin.com/in/pulkit-jatav",
     "github": "https://github.com/paradoxpj",
-    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQFKZsWYUYwLUg/profile-displayphoto-shrink_200_200/0/1615226001995?e=1635984000&v=beta&t=iH99LlHbJ6Xvxpgj6OJydg4J5lta3eEFFxl6p4PPVv4"
+    "image": "https://user-images.githubusercontent.com/56193323/131889109-988d8c0f-fba6-4041-815a-a38a2a4cba12.jpeg"
   },
   {
     "id": "11",
     "name": "Tarun Yadav",
-    "bio": "",
+    "batch": "2021",
     "linkedin": "https://linkedin.com/in/tarun-shekher-5b3801147",
     "github": "https://github.com/Tarun9005",
     "image": "https://avatars.githubusercontent.com/u/48067136?v=4"
@@ -90,9 +90,17 @@
   {
     "id": "12",
     "name": "Arpit",
-    "bio": "",
+    "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/gravious00",
     "github": "",
-    "image": "https://media-exp1.licdn.com/dms/image/C5103AQFjzgwy1S2hjQ/profile-displayphoto-shrink_200_200/0/1534883767797?e=1635984000&v=beta&t=i8A2LHCogUPPiALMUg04au2SNvnnmVOr-G_98nROPuQ"
-  } 
+    "image": "https://user-images.githubusercontent.com/56193323/131889111-86e9d67c-fe82-4253-9535-785b620a8091.jpeg"
+  },
+  {
+    "id": "13",
+    "name": "Apoorva Srivastava",
+    "batch": "2021",
+    "linkedin": "https://www.linkedin.com/in/apoorva-srivastava-9b9588162/",
+    "github": "",
+    "image": "https://user-images.githubusercontent.com/56193323/131889116-da658e6a-9609-4b80-ab2c-8c2a0956b68a.jpeg"
+  }  
 ] 

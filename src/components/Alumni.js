@@ -17,13 +17,12 @@ function Alumni() {
         <div className="page__headline">
           <span className="page__heading">Our Alumni</span>
           <span className="page__content">
-            Meet our amazing alumni who've set the standards high, showcasing their talents and rising high in the real world. We are proud to follow their footsteps.
+            Meet our amazing alumni who've set the standards high, showcasing
+            their talents and rising high in the real world. We are proud to
+            follow their footsteps!
           </span>
         </div>
-        <Lottie
-          options={defaultOptions}
-          width={700}
-        />
+        <Lottie options={defaultOptions} width={700} />
       </div>
       <div className="team__container">
         {AlumniData.map((member, index) => (
@@ -53,6 +52,7 @@ function Alumni() {
               </div>
             </div>
             <span className="member__name">{member.name}</span>
+            <span className="member__designation">Batch of {member.batch}</span>
           </div>
         ))}
       </div>
