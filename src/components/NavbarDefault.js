@@ -63,6 +63,14 @@ function NavbarDefault() {
         >
           Events
         </Link>
+        <Link
+          to="/alumni"
+          className={`nav__links ${
+            location.pathname === "/alumni" ? "active_link" : ""
+          }`}
+        >
+          Alumni
+        </Link>
         <a
           href="https://www.instagram.com/dscjssaten/"
           className="nav__links primary-btn"
