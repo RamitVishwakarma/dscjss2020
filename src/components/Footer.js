@@ -60,7 +60,7 @@ function Footer() {
           </a>
         </div>
         <div className="copyright">
-          <p>&copy; 2020 DSC JSSATEN</p>
+          <p>&copy; 2021 DSC JSSATEN</p>
         </div>
       </div>
     </>
