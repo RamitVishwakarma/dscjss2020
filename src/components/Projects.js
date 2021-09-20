@@ -118,9 +118,9 @@ function Projects() {
               />
             </div>
             <div className="project__content col-md-7 p-5 col-sm-7">
-              <h3 className="mb-3">DSC Folios</h3>
+              <h3 className="mb-3">GDSC Folios</h3>
               <p className="mb-2">
-                DSC Folios helps you generate an awesome, easy to share digital
+                GDSC Folios helps you generate an awesome, easy to share digital
                 portfolios by just filling out some simple details. Showcase
                 yourself and your achievements with a professional and
                 impressive resume with effortlessness and awesome craftsmanship.
@@ -167,7 +167,7 @@ function Projects() {
                 An open-source Android app that helps in connecting patients and
                 plasma donors. This is a beginner-friendly repository that helps
                 you learn the basics of android development, git, and GitHub for
-                DSC HackFest 2020.{" "}
+                GDSC HackFest 2020.{" "}
               </p>
               <div className="mb-3">
                 <img src={kotlin} alt="kotlin" />
@@ -376,7 +376,7 @@ function Projects() {
                 It's a single platform with all the info that you need to stay
                 updated with summits, meetups, hackathons, and much more! It is
                 a beginner-friendly repository that helps you learn git and
-                contribute to web projects under DSC HackFest 2020.{" "}
+                contribute to web projects under GDSC HackFest 2020.{" "}
               </p>
               <div className="mb-3">
                 <img src={mongo} alt="mongo" />
