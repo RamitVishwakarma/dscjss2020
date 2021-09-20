@@ -20,7 +20,7 @@
   {
     "id": "3",
     "name": "Pragati Verma",
-    "role": "Tech Lead",
+    "role": "Developer",
     "bio": "MLH Fellow | Ex-DSC Lead | SIH2020 Winner | MLSA 2020 | GSSoC'20 Mentor | GCI'19 Mentor @CircuitVerse | Full Stack Web Developer | Open Source Enthusiast",
     "linkedin": "https://www.linkedin.com/in/pragativerma18/",
     "github": "https://github.com/PragatiVerma18",
@@ -29,7 +29,7 @@
   {
     "id": "4",
     "name": "Gaurav Kumar",
-    "role": "Design Lead",
+    "role": "Designer",
     "bio": "I am a passionate Product designer who brings art, business, and engineering altogether.",
     "linkedin": "https://www.linkedin.com/in/gauravgeek23/",
     "github": "https://www.behance.net/gauravgeek23",
@@ -83,7 +83,7 @@
   {
     "id": "10",
     "name": "Naman Shankhydhar",
-    "role": "Web Developer",
+    "role": "Web Lead",
     "bio": "Front-end Developer | Open Source Enthusiast | JavaScript | C/C++",
     "linkedin": "http://www.linkedin.com/in/naman360",
     "github": "https://github.com/naman360",
@@ -92,11 +92,38 @@
   {
     "id": "11",
     "name": "Bhagyashree Rajdor",
-    "role": "Designer | Developer",
+    "role": "Design Lead",
     "bio": "Designer and Developer. Trying to make a change with Designs. I love to contribute to tech communities.",
     "linkedin": "https://www.linkedin.com/in/bhagyashree-rajdor-61784a18a",
     "github": "https://github.com/BhagyashreeRajdor",
     "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628918193/bhumi_t4xy4f.jpg"
+  },
+  {
+    "id": "19",
+    "name": "Abhinav Thakur",
+    "role": "Tech Lead",
+    "bio": "Data structure and algorithms enthusiast , a competitive programmer and a backend developer , working on tech to sharpen my skills.",
+    "linkedin": "https://www.linkedin.com/in/geekyabhi",
+    "github": "https://github.com/geekyabhi",
+    "image": "https://res.cloudinary.com/abhistrike/image/upload/v1612293861/20210203_005335_dlocx8.jpg"
+  },
+  {
+    "id": "15",
+    "name": "Nakul Sharma",
+    "role": "Android Lead",
+    "bio": "Android Developer and Competitive Programmer, Enthusiastic about solving real world problems.",
+    "linkedin": "https://www.linkedin.com/in/nakul-19/",
+    "github": "https://github.com/nakul-19",
+    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1629571201/nakul_tdqcwd.jpg"
+  },
+  {
+    "id": "23",
+    "name": "Indira Vats",
+    "role": "Media Lead",
+    "bio": "Passionate about interdisciplinary CS research and all things related to data, currently working in the field of ML.",
+    "linkedin": "https://www.linkedin.com/in/indiravats/",
+    "github": "https://github.com/indiravats",
+    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628868234/indira_kjfizd.jpg"
   },
   {
     "id": "12",
@@ -126,15 +153,6 @@
     "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628853361/ashish_gupta_ez741u.jpg"
   },
   {
-    "id": "15",
-    "name": "Nakul Sharma",
-    "role": "Android Developer | Programmer",
-    "bio": "Android Developer and Competitive Programmer, Enthusiastic about solving real world problems.",
-    "linkedin": "https://www.linkedin.com/in/nakul-19/",
-    "github": "https://github.com/nakul-19",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1629571201/nakul_tdqcwd.jpg"
-  },
-  {
     "id": "16",
     "name": "Karan Verma",
     "role": "Android Developer",
@@ -162,15 +180,6 @@
     "image": "https://user-images.githubusercontent.com/42115530/104718682-42d2a280-5751-11eb-8b8e-2c1f952d8e25.png"
   },
   {
-    "id": "19",
-    "name": "Abhinav Thakur",
-    "role": "Programmer",
-    "bio": "Data structure and algorithms enthusiast , a competitive programmer and a backend developer , working on tech to sharpen my skills.",
-    "linkedin": "https://www.linkedin.com/in/geekyabhi",
-    "github": "https://github.com/geekyabhi",
-    "image": "https://res.cloudinary.com/abhistrike/image/upload/v1612293861/20210203_005335_dlocx8.jpg"
-  },
-  {
     "id": "20",
     "name": "Swarina Jaiswal",
     "role": "Programmer",
@@ -196,15 +205,6 @@
     "linkedin": "https://www.linkedin.com/in/bajajanjana",
     "github": "https://github.com/bajajanjana",
     "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628852494/anjana_jdhfzw.jpg"
-  },
-  {
-    "id": "23",
-    "name": "Indira Vats",
-    "role": "ML Engineer",
-    "bio": "Passionate about interdisciplinary CS research and all things related to data, currently working in the field of ML.",
-    "linkedin": "https://www.linkedin.com/in/indiravats/",
-    "github": "https://github.com/indiravats",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628868234/indira_kjfizd.jpg"
   },
   {
     "id": "24",
