@@ -39,6 +39,14 @@ export default function Sidebar({ isOpen, handleOpen }) {
             >
               <span style={{ color: "#0F9D58" }}> Events</span>
             </NavLink>
+            <NavLink
+              exact
+              activeClassName="selected_link"
+              to="/alumni"
+              onClick={() => handleOpen(!isOpen)}
+            >
+              <span style={{ color: "#4285F4" }}> Alumni</span>
+            </NavLink>
           </div>
         </div>
       ) : (

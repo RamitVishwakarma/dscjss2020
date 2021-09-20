@@ -1,11 +1,12 @@
 [
-    {
+  {
     "id": "1",
     "name": "Taranjeet Singh",
     "batch": "2015",
     "linkedin": "https://www.linkedin.com/in/taranjeet7114/",
     "github": "https://github.com/taranjeet",
-    "image": "https://avatars.githubusercontent.com/u/4302268?v=4"
+    "image": "https://avatars.githubusercontent.com/u/4302268?v=4",
+    "bio": "Product & Growth at Khatabook (YC S18) | Previously Engineering at Paytm, Gradeup, edX"
   },
   {
     "id": "2",
@@ -13,7 +14,8 @@
     "batch": "2016",
     "linkedin": "https://www.linkedin.com/in/deshrajdry/",
     "github": "https://github.com/deshraj",
-    "image": "https://avatars.githubusercontent.com/u/2945708?v=4"
+    "image": "https://avatars.githubusercontent.com/u/2945708?v=4",
+    "bio": "Tesla Autopilot - Machine Learning Engineer | Co-founded Caliper.ai"
   },
   {
     "id": "3",
@@ -21,7 +23,8 @@
     "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/codehimanshu/",
     "github": "https://github.com/codehimanshu",
-    "image": "https://avatars.githubusercontent.com/u/14791631?v=4"
+    "image": "https://avatars.githubusercontent.com/u/14791631?v=4",
+    "bio": "Sr Software Engineer at Gradeup (Gradestack Learning Pvt Ltd)"
   },
   {
     "id": "4",
@@ -29,7 +32,8 @@
     "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/makchan15/",
     "github": "https://github.com/MakChan",
-    "image": "https://avatars.githubusercontent.com/u/16956850?v=4"
+    "image": "https://avatars.githubusercontent.com/u/16956850?v=4",
+    "bio": "Frontend at Syfe | React & React Native Developer"
   },
   {
     "id": "5",
@@ -37,7 +41,8 @@
     "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/hargovindarora04",
     "github": "https://github.com/HargovindArora",
-    "image": "https://avatars.githubusercontent.com/u/22341493?v=4"
+    "image": "https://avatars.githubusercontent.com/u/22341493?v=4",
+    "bio": "Machine Learning Intern @ Hiver | Master's CSE @ IIIT Bangalore '22"
   },
   {
     "id": "6",
@@ -45,7 +50,8 @@
     "batch": "2020",
     "linkedin": "https://www.linkedin.com/in/animeshseemendra",
     "github": "https://github.com/animeshseemendra",
-    "image": "https://avatars.githubusercontent.com/u/22393566?v=4"
+    "image": "https://avatars.githubusercontent.com/u/22393566?v=4",
+    "bio": "Research Engineer at SHL | Ex DSC Lead 2019-2020"
   },
   {
     "id": "7",
@@ -53,7 +59,8 @@
     "batch": "2021",
     "linkedin": "https://in.linkedin.com/in/tronku",
     "github": "https://github.com/tronku",
-    "image": "https://user-images.githubusercontent.com/56193323/131889105-d775014b-1871-4ee3-a8e2-6b48d90678a9.jpeg"
+    "image": "https://user-images.githubusercontent.com/56193323/131889105-d775014b-1871-4ee3-a8e2-6b48d90678a9.jpeg",
+    "bio": "SDE @ Zomato | Ex- Gradeup Intern"
   },
   {
     "id": "8",
@@ -61,7 +68,8 @@
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/utkarsh7998/",
     "github": "https://github.com/utkarsh7998",
-    "image": "https://user-images.githubusercontent.com/56193323/131889114-3fb78c14-d7bc-4883-94af-2fa6da7ab813.jpeg"
+    "image": "https://user-images.githubusercontent.com/56193323/131889114-3fb78c14-d7bc-4883-94af-2fa6da7ab813.jpeg",
+    "bio": "Master's CSE @IIT Kanpur | AIR 135 GATE CS'21"
   },
   {
     "id": "9",
@@ -69,7 +77,8 @@
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/radhika-bajaj/",
     "github": "https://github.com/radhikabajaj",
-    "image": "https://user-images.githubusercontent.com/56193323/131891668-e3e96e3a-bb1d-4172-b680-d394c9a9585d.jpg"
+    "image": "https://user-images.githubusercontent.com/56193323/131891668-e3e96e3a-bb1d-4172-b680-d394c9a9585d.jpg",
+    "bio": "Software Engineer at Gradeup (Gradestack Learning Pvt Ltd)"
   },
   {
     "id": "10",
@@ -77,15 +86,17 @@
     "batch": "2021",
     "linkedin": "https://linkedin.com/in/pulkit-jatav",
     "github": "https://github.com/paradoxpj",
-    "image": "https://user-images.githubusercontent.com/56193323/131889109-988d8c0f-fba6-4041-815a-a38a2a4cba12.jpeg"
+    "image": "https://user-images.githubusercontent.com/56193323/131889109-988d8c0f-fba6-4041-815a-a38a2a4cba12.jpeg",
+    "bio": "Software Engineer at HashedIn by Deloitte"
   },
   {
     "id": "11",
-    "name": "Tarun Yadav",
+    "name": "Tarun Shekhar",
     "batch": "2021",
     "linkedin": "https://linkedin.com/in/tarun-shekher-5b3801147",
     "github": "https://github.com/Tarun9005",
-    "image": "https://avatars.githubusercontent.com/u/48067136?v=4"
+    "image": "https://avatars.githubusercontent.com/u/48067136?v=4",
+    "bio": "Software Engineer @ Global Logic"
   },
   {
     "id": "12",
@@ -93,7 +104,8 @@
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/gravious00",
     "github": "",
-    "image": "https://user-images.githubusercontent.com/56193323/131889111-86e9d67c-fe82-4253-9535-785b620a8091.jpeg"
+    "image": "https://user-images.githubusercontent.com/56193323/131889111-86e9d67c-fe82-4253-9535-785b620a8091.jpeg",
+    "bio": "Experienced Developer with a demonstrated history of working with developers. Skilled in OpenCV, Python Machine Learning, and Leadership."
   },
   {
     "id": "13",
@@ -101,6 +113,7 @@
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/apoorva-srivastava-9b9588162/",
     "github": "",
-    "image": "https://user-images.githubusercontent.com/56193323/131889116-da658e6a-9609-4b80-ab2c-8c2a0956b68a.jpeg"
-  }  
-] 
+    "image": "https://user-images.githubusercontent.com/56193323/131889116-da658e6a-9609-4b80-ab2c-8c2a0956b68a.jpeg",
+    "bio": "M.Tech in Information Technology, IIIT Allahabad"
+  }
+]

@@ -31,7 +31,7 @@ function Alumni() {
               <img src={member.image} alt="" className="display__img" />
               <div className="content__overlay">
                 <div className="overlay__content">
-                  {/* <span>{member.bio}</span> */}
+                  <span>{member.bio}</span>
                   <div className="member__social">
                     <a
                       href={member.linkedin}
