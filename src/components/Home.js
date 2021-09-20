@@ -15,7 +15,7 @@ function Home() {
     <>
       <div className="flex__row">
         <div className="page__headline">
-          <span className="page__heading">DSC JSS NOIDA</span>
+          <span className="page__heading">GDSC JSS NOIDA</span>
           <span className="page__content">
             A community of
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>
