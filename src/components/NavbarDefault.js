@@ -72,7 +72,7 @@ function NavbarDefault() {
           Alumni
         </Link>
         <a
-          href="https://www.instagram.com/dscjssaten/"
+          href="https://www.instagram.com/gdscjssaten/"
           className="nav__links primary-btn"
           target="_blank"
           rel="noopener noreferrer"
