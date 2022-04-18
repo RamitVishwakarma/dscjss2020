@@ -4,7 +4,8 @@ import TeamAnim from "../assets/animation/TeamAnim.json";
 import AlumniData from "../assets/data/alumni.json";
 import In from "../assets/img/in.svg";
 import github from "../assets/img/github.svg";
-
+import NavbarDefault from "./NavbarDefault";
+import Footer from "./Footer";
 function Alumni() {
   const defaultOptions = {
     loop: true,
@@ -13,6 +14,7 @@ function Alumni() {
   };
   return (
     <>
+    <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Our Alumni</span>
@@ -55,6 +57,7 @@ function Alumni() {
             <span className="member__designation">Batch of {member.batch}</span>
           </div>
         ))}
+        <Footer />
       </div>
     </>
   );

@@ -24,6 +24,8 @@ import java from "../assets/img/tech/Java.svg";
 // import html from "../assets/img/tech/html.svg";
 // import javascript from "../assets/img/tech/Javascript.svg";
 // import laravel from "../assets/img/tech/Laravel.svg";
+import NavbarDefault from "./NavbarDefault";
+import Footer from "./Footer";
 
 function Projects() {
   const defaultOptions = {
@@ -33,6 +35,7 @@ function Projects() {
   };
   return (
     <>
+    <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Stuffs we make</span>
@@ -437,6 +440,7 @@ function Projects() {
         </div>
         {/* Snappify */}
       </div>
+      <Footer />
     </>
   );
 }

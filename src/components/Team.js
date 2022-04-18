@@ -5,6 +5,8 @@ import TeamAnim from "../assets/animation/TeamAnim.json";
 import TeamData from "../assets/data/team.json";
 import In from "../assets/img/in.svg";
 import github from "../assets/img/github.svg";
+import NavbarDefault from "./NavbarDefault";
+import Footer from "./Footer";
 
 function Team() {
   const defaultOptions = {
@@ -14,6 +16,7 @@ function Team() {
   };
   return (
     <>
+    <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Meet the Geeks</span>
@@ -75,6 +78,7 @@ function Team() {
             <span className="member__designation">{member.role}</span>
           </div>
         ))}
+        <Footer />
       </div>
     </>
   );

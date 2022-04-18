@@ -4,7 +4,8 @@ import TeamAnim from "../assets/animation/TeamAnim.json";
 import codesandbox from "../assets/img/codesandbox.svg";
 import Clubs from "./Clubs";
 import Join from "./Join";
-
+import NavbarDefault from "./NavbarDefault";
+import Footer from "./Footer";
 function Home() {
   const defaultOptions = {
     loop: true,
@@ -13,6 +14,7 @@ function Home() {
   };
   return (
     <>
+    <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">GDSC JSS NOIDA</span>
@@ -55,6 +57,7 @@ function Home() {
       </div>
       <Clubs />
       <Join />
+      <Footer />
     </>
   );
 }

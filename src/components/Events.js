@@ -2,7 +2,8 @@ import React from "react";
 import { useEffect } from "react";
 import Lottie from "react-lottie";
 import TeamAnim from "../assets/animation/TeamAnim.json";
-
+import NavbarDefault from "./NavbarDefault";
+import Footer from "./Footer";
 function Events() {
   const defaultOptions = {
     loop: true,
@@ -19,6 +20,7 @@ function Events() {
   }, []);
   return (
     <>
+    <NavbarDefault />
       {/* <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Events we align</span>
@@ -250,6 +252,7 @@ function Events() {
           </div>
         </div>
       </div>
+      <Footer />
     </>
   );
 }
