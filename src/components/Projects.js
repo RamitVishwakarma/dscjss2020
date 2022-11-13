@@ -38,7 +38,7 @@ function Projects() {
     <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
-          <span className="page__heading">Stuffs we make</span>
+          <span className="page__heading">Stuff we make</span>
           <span className="page__content">
             Our aim is to learn and teach.
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>

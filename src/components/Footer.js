@@ -14,7 +14,7 @@ function Footer() {
     <>
       <div className='footer'>
         <div style={{ display: 'block', margin: 'auto' }}>
-          <img src={Logo} alt='dscjss' />
+          <img className="logo" src={Logo} alt='dscjss' />
         </div>
         <div className='icon-tray'>
           <a

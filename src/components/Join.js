@@ -13,8 +13,8 @@ function Join() {
           className="join-headline"
         >
           <p>
-            Let's discuss{" "}
-            <span style={{ color: "rgb(15, 157, 88)" }}>Stuffsssssss!</span>
+            Let's{" "}
+            <span style={{ color: "rgb(15, 157, 88)" }}>Connect!</span>
           </p>
         </h2>
       </div>

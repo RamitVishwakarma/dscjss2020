@@ -1,272 +1,335 @@
-[
-  {
-    "id": "1",
-    "name": "Paurush Tiwari",
-    "role": "DSC Lead",
-    "bio": "DSC Lead | SIH2020 Winner | LiFT Scholar | GSSoC'21 Mentor | Machine Learning Engineer | Open Source Enthusiast",
-    "linkedin": "https://www.linkedin.com/in/paurushtiwari/",
-    "github": "https://github.com/MAJOR-BEAST",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628878141/paurush_bg61nk.jpg"
-  },
-  {
-    "id": "2",
-    "name": "Dheeraj Kotwani",
-    "role": "CTC | Android Developer",
-    "bio": "Android Developer who loves to build amazing apps. I believe in practice based learning and always there to collaborate and build projects.",
-    "linkedin": "https://www.linkedin.com/in/dheerajkotwani/",
-    "github": "https://github.com/dheerajkotwani/",
-    "image": "https://avatars3.githubusercontent.com/u/44086235?s=460&u=68b5257a178f390026de053fd156498a1a4773a0&v=4"
-  },
-  {
-    "id": "3",
-    "name": "Pragati Verma",
-    "role": "Developer",
-    "bio": "MLH Fellow | Ex-DSC Lead | SIH2020 Winner | MLSA 2020 | GSSoC'20 Mentor | GCI'19 Mentor @CircuitVerse | Full Stack Web Developer | Open Source Enthusiast",
-    "linkedin": "https://www.linkedin.com/in/pragativerma18/",
-    "github": "https://github.com/PragatiVerma18",
-    "image": "https://user-images.githubusercontent.com/42115530/104717968-2d10ad80-5750-11eb-9215-9817ec2056e6.png"
-  },
-  {
-    "id": "4",
-    "name": "Gaurav Kumar",
-    "role": "Designer",
-    "bio": "I am a passionate Product designer who brings art, business, and engineering altogether.",
-    "linkedin": "https://www.linkedin.com/in/gauravgeek23/",
-    "github": "https://www.behance.net/gauravgeek23",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1629571205/gaurav_xxdkhz.jpg"
-  },
-  {
-    "id": "5",
-    "name": "Vatsal Kesarwani",
-    "role": "Android Developer",
-    "bio": "I'm an Android Developer who loves to build amazing apps. I believe in open-source learning and always there to collaborate and build projects. I code in C, C++, Java, Kotlin.",
-    "linkedin": "https://www.linkedin.com/in/vatsal-kesarwani/",
-    "github": "https://github.com/plazzy99",
-    "image": "https://avatars2.githubusercontent.com/u/48295138?s=460&u=8e588b8e5d6e8eb2f40886398c26e37b83b33e50&v=4"
-  },
-  {
-    "id": "6",
-    "name": "Ayush Tiwari",
-    "role": "Developer | Programmer",
-    "bio": "I love to solve problems and learn about new technology. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.",
-    "linkedin": "https://www.linkedin.com/in/ayush-tiwari-b376b5194/",
-    "github": "https://github.com/servermonk",
-    "image": "https://avatars0.githubusercontent.com/u/47775419?s=460&u=8093851c8db10edad1d6a00435989daab20c2bbe&v=4"
-  },
-  {
-    "id": "7",
-    "name": "Gaurav Kumar",
-    "role": "Web Developer",
-    "bio": "REACT | PHP | LARAVEL | JAVASCRIPT | COMPETITIVE PROGRAMMER",
-    "linkedin": "https://www.linkedin.com/in/gaurav-kumar-51788a194/",
-    "github": "https://github.com/Gaurav6982",
-    "image": "https://avatars0.githubusercontent.com/u/49642550?s=460&u=18ca7aa78390044dca338d87ff90bb3511569b2c&v=4"
-  },
-  {
-    "id": "8",
-    "name": "Diya Jaiswal",
-    "role": "Developer",
-    "bio": "Backend Developer | Competitive Programmer | Open Source Enthusiast",
-    "linkedin": "https://www.linkedin.com/in/diyajaiswal11/",
-    "github": "https://github.com/diyajaiswal11",
-    "image": "https://avatars1.githubusercontent.com/u/48059117?s=460&u=1887b008b26463a4c206beb958fd3db1823685b9&v=4"
-  },
-  {
-    "id": "9",
-    "name": "Swatantra Nigam",
-    "role": "Programmer | Backend Developer",
-    "bio": "DSA Enthusiastic, Competetive Programmer, Backend Developer",
-    "linkedin": "https://www.linkedin.com/in/swatantrakumarnigam/",
-    "github": "https://github.com/swatantra94",
-    "image": "https://avatars1.githubusercontent.com/u/48061489?s=460&u=3ed05d50e68e484ff690fd04581e5adbff3cf46a&v=4"
-  },
-  {
-    "id": "10",
-    "name": "Naman Shankhydhar",
-    "role": "Web Lead",
-    "bio": "Front-end Developer | Open Source Enthusiast | JavaScript | C/C++",
-    "linkedin": "http://www.linkedin.com/in/naman360",
-    "github": "https://github.com/naman360",
-    "image": "https://res.cloudinary.com/dsc-jss/image/upload/v1617892175/Screenshot_from_2021-04-08_19-59-05_vsseom.png"
-  },
-  {
-    "id": "11",
-    "name": "Bhagyashree Rajdor",
-    "role": "Design Lead",
-    "bio": "Designer and Developer. Trying to make a change with Designs. I love to contribute to tech communities.",
-    "linkedin": "https://www.linkedin.com/in/bhagyashree-rajdor-61784a18a",
-    "github": "https://github.com/BhagyashreeRajdor",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628918193/bhumi_t4xy4f.jpg"
-  },
-  {
-    "id": "19",
-    "name": "Abhinav Thakur",
-    "role": "Tech Lead",
-    "bio": "Data structure and algorithms enthusiast , a competitive programmer and a backend developer , working on tech to sharpen my skills.",
-    "linkedin": "https://www.linkedin.com/in/geekyabhi",
-    "github": "https://github.com/geekyabhi",
-    "image": "https://res.cloudinary.com/abhistrike/image/upload/v1612293861/20210203_005335_dlocx8.jpg"
-  },
-  {
-    "id": "15",
-    "name": "Nakul Sharma",
-    "role": "Android Lead",
-    "bio": "Android Developer and Competitive Programmer, Enthusiastic about solving real world problems.",
-    "linkedin": "https://www.linkedin.com/in/nakul-19/",
-    "github": "https://github.com/nakul-19",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1629571201/nakul_tdqcwd.jpg"
-  },
-  {
-    "id": "23",
-    "name": "Indira Vats",
-    "role": "Media Lead",
-    "bio": "Passionate about interdisciplinary CS research and all things related to data, currently working in the field of ML.",
-    "linkedin": "https://www.linkedin.com/in/indiravats/",
-    "github": "https://github.com/indiravats",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628868234/indira_kjfizd.jpg"
-  },
-  {
-    "id": "12",
-    "name": "Yash Garg",
-    "role": "Front-End Web Developer",
-    "bio": "I am a self taught programmer proficient in designing and developing appealing  websites and web apps. I am learning to improve my DSA and applying them to real life problems.",
-    "linkedin": "https://www.linkedin.com/in/yash-garg-6012461a1",
-    "github": "https://github.com/yash0501",
-    "image": "https://avatars3.githubusercontent.com/u/60708843?s=460&u=139ea0132db66e067c8643903cede146ef9102e8&v=4"
-  },
-  {
-    "id": "13",
-    "name": "Aman Dixit",
-    "role": "Full Stack Web Developer",
-    "bio": "I have explored the world of Full-Stack Development for so much time that it has become a passion for me now | Open Source Enthusisast | Competitive Programmer.",
-    "linkedin": "https://www.linkedin.com/in/aman-dixit-b371b9190/",
-    "github": "https://github.com/AMAN123956",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628866254/aman_g7mzta.jpg"
-  },
-  {
-    "id": "14",
-    "name": "Ashish Kumar Gupta",
-    "role": "Designer",
-    "bio": "Designer working across UI/UX , Branding & Graphic Design.Enthusiastic about new technologies and human-centered design",
-    "linkedin": "https://www.linkedin.com/in/ashishkumargupta101",
-    "github": "https://github.com/ashishgupta101",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628853361/ashish_gupta_ez741u.jpg"
-  },
-  {
-    "id": "16",
-    "name": "Karan Verma",
-    "role": "Android Developer",
-    "bio": "Love to build Android stuff with Kotlin | Competitive Programmer | Enthusiastic about solving real world problems.",
-    "linkedin": "https://www.linkedin.com/in/karan-verma123",
-    "github": "https://github.com/karan7393065010",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628879480/karan_e9xa0v.jpg"
-  },
-  {
-    "id": "17",
-    "name": "Anuraj Jain",
-    "role": "Android Developer | Programmer",
-    "bio": "Android developer and Competitive programmer. Believes in self learning at one's own pace",
-    "linkedin": "https://www.linkedin.com/in/anurajaj21",
-    "github": "https://github.com/Anurajaj21",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628885686/anuraj_uia5qm.jpg"
-  },
-  {
-    "id": "18",
-    "name": "Akshit Awasthi",
-    "role": "Programmer",
-    "bio": "Self-motivated programmer, interested in solving real-life problems, fascinated by operating systems, Linux/kernel/hypervisor, data-structures and algorithms.",
-    "linkedin": "https://www.linkedin.com/in/awasthiakshit11/",
-    "github": "https://github.com/akshi2000",
-    "image": "https://user-images.githubusercontent.com/42115530/104718682-42d2a280-5751-11eb-8b8e-2c1f952d8e25.png"
-  },
-  {
-    "id": "20",
-    "name": "Swarina Jaiswal",
-    "role": "Programmer",
-    "bio": "I'm a competitive programmer and an enthusiastic learner. I want to pave my way building solutions for our community. ",
-    "linkedin": "https://in.linkedin.com/in/swarina-jaiswal",
-    "github": "https://github.com/swarina",
-    "image": "https://avatars3.githubusercontent.com/u/56193323?s=460&u=bd8f1666cfb2867c30be9c9dd446f10d0c981f77&v=4"
-  },
-  {
-    "id": "21",
-    "name": "Dhruv Baliyan",
-    "role": "Programmer",
-    "bio": "I've good problem solving skills and understanding of DSA. Currently learning Android development.",
-    "linkedin": "https://www.linkedin.com/in/dhruvbaliyan1001",
-    "github": "https://github.com/dhruv-1001",
-    "image": "https://res.cloudinary.com/dsc-jss/image/upload/v1617891853/Me_-_Dhruv_Baliyan_ouqxbp.jpg"
-  },
-  {
-    "id": "22",
-    "name": "Anjana Bajaj",
-    "role": "Programmer",
-    "bio": "Competitive Programmer and a web enthusiast. Exploring various  technologies in  web development.Always ready to learn and grow in collaboration.",
-    "linkedin": "https://www.linkedin.com/in/bajajanjana",
-    "github": "https://github.com/bajajanjana",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628852494/anjana_jdhfzw.jpg"
-  },
-  {
-    "id": "24",
-    "name": "Vijay Kumar Prajapati",
-    "role": "Web Developer",
-    "bio": "Front-end developer | open source enthusiast | C++",
-    "linkedin": "https://www.linkedin.com/in/vijayyprajapati/",
-    "github": "https://github.com/vijayyprajapati",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849462/vijay_zafkdv.jpg"
-  },
-  {
-    "id": "25",
-    "name": "Rucha Kasture",
-    "role": "Web Developer",
-    "bio": "I like building websites and exploring the world of Open Source. I do competitive programming for fun!",
-    "linkedin": "https://www.linkedin.com/in/rucha-kasture-02/",
-    "github": "https://github.com/rucha0702",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628869421/rucha1_xgnbxs.jpg"
-  },
-  {
-    "id": "26",
-    "name": "Satyam Shukla",
-    "role": "Designer | Developer",
-    "bio": "I am a passionate UI/UX Designer & Front-end Developer who brings art, business, and engineering altogether.",
-    "linkedin": "https://www.linkedin.com/in/sat02yam",
-    "github": "https://github.com/Sat02yam/",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849455/satyam_hidj6i.jpg"
-  },
-  {
-    "id": "27",
-    "name": "Shubhransh Bhaskar",
-    "role": "Designer | Developer",
-    "bio": "UI/UX Designer & Developer, doing a lot of other stuff ; keep up.",
-    "linkedin": "https://www.linkedin.com/in/iamshubhransh/",
-    "github": "https://github.com/iamshubhransh/",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628878134/shubhransh_imbfzd.png"
-  },
-  {
-    "id": "28",
-    "name": "Lucky Bhagat",
-    "role": "Designer",
-    "bio": "Heya. I’m Lucky, a passionate designer who focuses on detail, works to his full potential, and thrives to broaden his skill set.",
-    "linkedin": "http://linkedin.com/in/luckyybhagat",
-    "github": "https://github.com/luckyybhagat",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628866246/lucky_ccdtec.jpg"
-  },
-  {
-    "id": "29",
-    "name": "Pankhuri Srivastava",
-    "role": "Programmer",
-    "bio": "In love with competitive programming | DSA and Open Source enthusiast.",
-    "linkedin": "https://www.linkedin.com/in/pankhuri-srivastava-2001/",
-    "github": "https://github.com/srivasPankhuri",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628878398/pankhuri_rhzys1.jpg"
-  },
-  {
-    "id": "30",
-    "name": "Prakhar Sharma",
-    "role": "Programmer",
-    "bio": "I'm an undergraduate student who is passionate about solving real-life problems. Competitive Programmer | Open Source Enthusiast | Java.",
-    "linkedin": "https://www.linkedin.com/in/sprakhar07/",
-    "github": "https://github.com/sprakhar11",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849450/prakhar_qvejyr.jpg"
-  }
+[{
+  "id": "1",
+  "name": "Indira Vats",
+  "role": "GDSC Lead",
+  "bio": "Passionate about interdisciplinary CS research and all things related to data, currently working in the field of ML.",
+  "linkedin": "https://www.linkedin.com/in/indiravats/",
+  "github": "https://github.com/indiravats",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628868234/indira_kjfizd.jpg"
+},
+{
+  "id": "2",
+  "name": "Naman Shankhydhar",
+  "role": "CTC | Web Developer",
+  "bio": "Front-end Developer | Open Source Enthusiast | JavaScript | C/C++",
+  "linkedin": "http://www.linkedin.com/in/naman360",
+  "github": "https://github.com/naman360",
+  "image": "https://res.cloudinary.com/dsc-jss/image/upload/v1617892175/Screenshot_from_2021-04-08_19-59-05_vsseom.png"
+},
+{
+  "id": "3",
+  "name": "Bhagyashree Rajdor",
+  "role": "Designer | Developer",
+  "bio": "Designer and Developer. Trying to make a change with Designs. I love to contribute to tech communities.",
+  "linkedin": "https://www.linkedin.com/in/bhagyashree-rajdor-61784a18a",
+  "github": "https://github.com/BhagyashreeRajdor",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628918193/bhumi_t4xy4f.jpg"
+},
+{
+  "id": "4",
+  "name": "Abhinav Thakur",
+  "role": "Programmer | Backend Developer",
+  "bio": "Data structure and algorithms enthusiast , a competitive programmer and a backend developer , working on tech to sharpen my skills.",
+  "linkedin": "https://www.linkedin.com/in/geekyabhi",
+  "github": "https://github.com/geekyabhi",
+  "image": "https://res.cloudinary.com/abhistrike/image/upload/v1612293861/20210203_005335_dlocx8.jpg"
+},
+{
+  "id": "5",
+  "name": "Nakul Sharma",
+  "role": "Android Developer | Programmer",
+  "bio": "Android Developer and Competitive Programmer, Enthusiastic about solving real world problems.",
+  "linkedin": "https://www.linkedin.com/in/nakul-19/",
+  "github": "https://github.com/nakul-19",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181922/-8fnzst_-_Nakul_Sharma_uovrjn.jpg"
+},
+{
+  "id": "6",
+  "name": "Yash Garg",
+  "role": "Front-End Web Developer",
+  "bio": "I am a self taught programmer proficient in designing and developing appealing  websites and web apps. I am learning to improve my DSA and applying them to real life problems.",
+  "linkedin": "https://www.linkedin.com/in/yash-garg-6012461a1",
+  "github": "https://github.com/yash0501",
+  "image": "https://avatars3.githubusercontent.com/u/60708843?s=460&u=139ea0132db66e067c8643903cede146ef9102e8&v=4"
+},
+{
+  "id": "7",
+  "name": "Aman Dixit",
+  "role": "Full Stack Web Developer",
+  "bio": "I have explored the world of Full-Stack Development for so much time that it has become a passion for me now | Open Source Enthusisast | Competitive Programmer.",
+  "linkedin": "https://www.linkedin.com/in/aman-dixit-b371b9190/",
+  "github": "https://github.com/AMAN123956",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628866254/aman_g7mzta.jpg"
+},
+{
+  "id": "8",
+  "name": "Ashish Kumar Gupta",
+  "role": "Designer",
+  "bio": "Designer working across UI/UX , Branding & Graphic Design.Enthusiastic about new technologies and human-centered design",
+  "linkedin": "https://www.linkedin.com/in/ashishkumargupta101",
+  "github": "https://github.com/ashishgupta101",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628853361/ashish_gupta_ez741u.jpg"
+},
+{
+  "id": "9",
+  "name": "Karan Verma",
+  "role": "Android | Backend",
+  "bio": "Love to build Android stuff with Kotlin and Backend with Java SpringBoot",
+  "linkedin": "https://www.linkedin.com/in/karan-verma123",
+  "github": "https://github.com/karan7393065010",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668187584/645D8C41-C4C2-43F1-BE69-D0E10B692FFA_blqwrn.jpg"
+},
+{
+  "id": "10",
+  "name": "Anuraj Jain",
+  "role": "Android Developer | Programmer",
+  "bio": "Android developer and Competitive programmer. Believes in self learning at one's own pace",
+  "linkedin": "https://www.linkedin.com/in/anurajaj21",
+  "github": "https://github.com/Anurajaj21",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628885686/anuraj_uia5qm.jpg"
+},
+{
+  "id": "11",
+  "name": "Akshit Awasthi",
+  "role": "Programmer",
+  "bio": "Self-motivated programmer, interested in solving real-life problems, fascinated by operating systems, Linux/kernel/hypervisor, data-structures and algorithms.",
+  "linkedin": "https://www.linkedin.com/in/awasthiakshit11/",
+  "github": "https://github.com/akshi2000",
+  "image": "https://user-images.githubusercontent.com/42115530/104718682-42d2a280-5751-11eb-8b8e-2c1f952d8e25.png"
+},
+{
+  "id": "12",
+  "name": "Swarina Jaiswal",
+  "role": "Programmer",
+  "bio": "I'm a competitive programmer and an enthusiastic learner. I want to pave my way building solutions for our community. ",
+  "linkedin": "https://in.linkedin.com/in/swarina-jaiswal",
+  "github": "https://github.com/swarina",
+  "image": "https://avatars3.githubusercontent.com/u/56193323?s=460&u=bd8f1666cfb2867c30be9c9dd446f10d0c981f77&v=4"
+},
+{
+  "id": "13",
+  "name": "Dhruv Baliyan",
+  "role": "Programmer",
+  "bio": "I've good problem solving skills and understanding of DSA. Currently learning Android development.",
+  "linkedin": "https://www.linkedin.com/in/dhruvbaliyan1001",
+  "github": "https://github.com/dhruv-1001",
+  "image": "https://res.cloudinary.com/dsc-jss/image/upload/v1617891853/Me_-_Dhruv_Baliyan_ouqxbp.jpg"
+},
+{
+  "id": "14",
+  "name": "Anjana Bajaj",
+  "role": "Programmer",
+  "bio": "Competitive Programmer and a web enthusiast. Exploring various  technologies in  web development.Always ready to learn and grow in collaboration.",
+  "linkedin": "https://www.linkedin.com/in/bajajanjana",
+  "github": "https://github.com/bajajanjana",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628852494/anjana_jdhfzw.jpg"
+},
+{
+  "id": "15",
+  "name": "Rucha Kasture",
+  "role": "Web Lead",
+  "bio": "Web Lead @GDSC | SIH 2022 Winner | MLSA 2021 | GSSoC'22 Mentor | Frontend Developer | Open Source Enthusiast",
+  "linkedin": "https://www.linkedin.com/in/rucha-kasture-02/",
+  "github": "https://github.com/rucha0702",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181870/xyz_-_Rucha_Kasture_uoybgo.jpg"
+},
+{
+  "id": "16",
+  "name": "Satyam Shukla",
+  "role": "Design Lead",
+  "bio": "I am a passionate UI/UX Designer & Front-end Developer who brings art, business, and engineering altogether.",
+  "linkedin": "https://www.linkedin.com/in/sat02yam",
+  "github": "https://github.com/Sat02yam/",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849455/satyam_hidj6i.jpg"
+},
+{
+  "id": "17",
+  "name": "Shubhransh Bhaskar",
+  "role": "Media Lead",
+  "bio": "UI/UX Designer & Developer, doing a lot of other stuff ; keep up.",
+  "linkedin": "https://www.linkedin.com/in/iamshubhransh/",
+  "github": "https://github.com/iamshubhransh/",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628878134/shubhransh_imbfzd.png"
+},
+{
+  "id": "18",
+  "name": "Prince Gupta",
+  "role": "Android Lead",
+  "bio": "Android Developer, Enthusiastic about solving real world problems.",
+  "linkedin": "https://www.linkedin.com/mwlite/in/prince-gupta-595157211",
+  "github": "https://github.com/princegupta25",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181607/pf5b82_-_Prince_Gupta_ld5dhc.jpg"
+},
+{
+  "id": "19",
+  "name": "Pankhuri Srivastava",
+  "role": "ML Lead",
+  "bio": "In love with competitive programming | DSA and Open Source enthusiast.",
+  "linkedin": "https://www.linkedin.com/in/pankhuri-srivastava-2001/",
+  "github": "https://github.com/srivasPankhuri",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628878398/pankhuri_rhzys1.jpg"
+},
+{
+  "id": "20",
+  "name": "Vijay Kumar Prajapati",
+  "role": "Web Developer",
+  "bio": "Front-end developer | open source enthusiast | C++",
+  "linkedin": "https://www.linkedin.com/in/vijayyprajapati/",
+  "github": "https://github.com/vijayyprajapati",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849462/vijay_zafkdv.jpg"
+},
+{
+  "id": "22",
+  "name": "Prakhar Sharma",
+  "role": "Programmer",
+  "bio": "I'm an undergraduate student who is passionate about solving real-life problems. Competitive Programmer | Open Source Enthusiast | Java.",
+  "linkedin": "https://www.linkedin.com/in/sprakhar07/",
+  "github": "https://github.com/sprakhar11",
+  "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849450/prakhar_qvejyr.jpg"
+},
+{
+  "id": "23",
+  "name": "Divik Agrawal",
+  "role": "Machine Learning",
+  "bio": "ML Developer, DSA Enthusiast and interested in solving real-life problems.",
+  "linkedin": "https://www.linkedin.com/in/divik-agrawal-b45325208/",
+  "github": "https://github.com/divik2510",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181919/image_-_Divik_Agrawal_r3sstx.jpg"
+},
+{
+  "id": "24",
+  "name": "Ritika Garg",
+  "role": "Programmer",
+  "bio": "SIH'2022 Finalist | Data structure and algorithms enthusiast | Competitive programmer | Backend developer ",
+  "linkedin": "https://www.linkedin.com/in/ritika-garg-1458711ba/",
+  "github": "https://github.com/RitikaGarg-tech",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181875/myprofile_-_Ritika_Garg_bjfpdr.jpg"
+},
+{
+  "id": "25",
+  "name": "Aabhash Gauda",
+  "role": "Developer",
+  "bio": "I love Developing and Exploring World of Web |Java.",
+  "linkedin": "https://in.linkedin.com/in/aabhash-gauda-36364b213?original_referer=https%3A%2F%2Fwww.google.com%2F",
+  "github": "https://github.com/AabhashGauda",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181917/IMG_20201024_142053_2_-_Aabhash_Gauda_qjuqci.jpg"
+},
+{
+  "id": "21",
+  "name": "Udbhav Patel",
+  "role": "Designer",
+  "bio": "Designer who loves to create new things and show creativity. Also a developer and programmer✨.",
+  "linkedin": "https://www.linkedin.com/in/udbhav-patel-267904203",
+  "github": "https://github.com/Ski1ledHawkeye",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668289463/IMG_20220827_144052-02-02_-_Udbhav_Patel_qp4iuk.jpg"
+},
+{
+  "id": "21",
+  "name": "Harshit keshri",
+  "role": "Android Developer",
+  "bio": "Android Developer",
+  "linkedin": "https://www.linkedin.com/in/harshit-keshri-a07757201",
+  "github": "https://github.com/harshitkeshrihk",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668289463/IMG_20221001_140444_-_Harshit_Keshri_ioxe2x.jpg"
+},
+{
+  "id": "26",
+  "name": "Kalash Saini",
+  "role": "Android Developer",
+  "bio": "I build mobile applications with Flutter tech stack | Love to work as a team on projects | Open Source Enthusiast.",
+  "linkedin": "https://www.linkedin.com/in/kalashsaini27/https://www.linkedin.com/in/kalashsaini27/",
+  "github": "https://github.com/insfirred",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181923/IMG_20220504_183330_-_Kalash_Saini_xnpuvc.jpg"
+},
+{
+  "id": "",
+  "name": "Rishita Jayant",
+  "role": "Web Developer",
+  "bio": "Aspiring Full-stack Web Developer ^_^, finding my way through songs is my speciality and Designing's one of my forte...",
+  "linkedin": "https://www.linkedin.com/in/rishita-jayant/",
+  "github": "https://github.com/Rish-02",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668185087/IMG20221029120831_lprblv.jpg"
+},
+{
+  "id": "30",
+  "name": "Yash Tiwari",
+  "role": "Front-End Web Developer",
+  "bio": "Developing faster than the speed of light. A Tenacious Sophomore.",
+  "linkedin": "https://www.linkedin.com/in/yash-tiwari-966648158/",
+  "github": "https://github.com/tiwari74",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181920/70920113-7a57-447f-ac60-606678a08e4e_-_Yash_Tiwari_zzgzhw.jpg"
+},
+{
+  "id": "30",
+  "name": "Piyush Gupta",
+  "role": "Front-End Developer",
+  "bio": "I am a frontend developer currently exploring the backend also and working on frameworks and I am an enthusiastic learner.",
+  "linkedin": "https://www.linkedin.com/in/piyush-gupta-536097219",
+  "github": "https://github.com/piug-07",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668182320/Screenshot_2022-11-09-10-10-14-66_965bbf4d18d205f782c6b8409c5773a4_-_piyush_gupta_r3vhzq.png"
+},
+{
+  "id": "30",
+  "name": "Vrishhti Goel",
+  "role": "Designer",
+  "bio": "A passionate Designer and DSA enthusiast, striving hard to sharpen my tech skills.",
+  "linkedin": "https://www.linkedin.com/in/vrishhti-goel-58aa1b218/",
+  "github": "https://github.com/Vrishhti",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181889/IMG-20220428-WA0008_-_Vrishhti_Goel_korofd.jpg"
+},
+{
+  "id": "30",
+  "name": "Anubhav Pal",
+  "role": "Designer",
+  "bio": "I like to design interfaces and stuff, keeping in mind the very idea of being creative and precise..Dattebayo!",
+  "linkedin": "https://www.linkedin.com/in/anubhavpal",
+  "github": "https://github.com/Anubhav-Pal",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181925/IMG_20220826_225834_-_21CS017_Anubhav_Pal_h6wrls.jpg"
+},
+{
+  "id": "30",
+  "name": "Shagun Chahar",
+  "role": "Android Developer",
+  "bio": "Building smarter applications for smart users.",
+  "linkedin": "https://www.linkedin.com/in/shagun-chahar",
+  "github": "https://github.com/shags8",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181893/IMG_20221109_085221_-_21CS002_Shagun_Chahar_pmzjat.jpg"
+},
+{
+  "id": "30",
+  "name": "Ashish Kushwaha",
+  "role": "Programmer | ML",
+  "bio": "Competitive Programmer | ML/AI | Open Source.",
+  "linkedin": "https://www.linkedin.com/in/ashishkingdom/",
+  "github": "https://github.com/AshishKingdom",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181920/IMG_20221109_100917_-_21CS078_Ashish_Kushwaha_nzyqv1.jpg"
+},
+{
+  "id": "30",
+  "name": "Devanshi Bahuguna",
+  "role": "Programmer",
+  "bio": "Competitive programming | web development | open source.",
+  "linkedin": "https://www.linkedin.com/in/devanshi-bahuguna-438382174",
+  "github": "https://github.com/devanshibahuguna",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181920/1667999208439_-_devanshi_bahuguna_blf3r0.jpg"
+},
+{
+  "id": "30",
+  "name": "Om Gupta",
+  "role": "Programmer",
+  "bio": "Competitive Programmer | DSA | WEB DEV | Open Source.",
+  "linkedin": "https://www.linkedin.com/in/om-gupta-1219b2223/",
+  "github": "https://github.com/Omgupta8",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181921/00C86C0C-D1DC-4225-AAAE-99BA74E19CF2_-_21CS048_omgupta_axqrud.jpg"
+},
+{
+  "id": "30",
+  "name": "Abhishek Sharma",
+  "role": "Programmer",
+  "bio": "Competitive programming | Development",
+  "linkedin": "https://www.linkedin.com/in/abhishek-sharma-2a3764252",
+  "github": "https://github.com/AbhiSharma096",
+  "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181917/SAVE_20200714_055213_-_Abhishek_Sharma_p9iuco.jpg"
+}
+
 ]

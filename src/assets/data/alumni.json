@@ -1,60 +1,87 @@
 [
   {
     "id": "1",
-    "name": "Taranjeet Singh",
-    "batch": "2015",
-    "linkedin": "https://www.linkedin.com/in/taranjeet7114/",
-    "github": "https://github.com/taranjeet",
-    "image": "https://avatars.githubusercontent.com/u/4302268?v=4",
-    "bio": "Product & Growth at Khatabook (YC S18) | Previously Engineering at Paytm, Gradeup, edX"
+    "name": "Paurush Tiwari",
+    "batch": "2022",
+    "bio": "DSC Lead | SIH2020 Winner | LiFT Scholar | GSSoC'21 Mentor | Machine Learning Engineer | Open Source Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/paurushtiwari/",
+    "github": "https://github.com/MAJOR-BEAST",
+    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628878141/paurush_bg61nk.jpg"
   },
   {
     "id": "2",
-    "name": "Deshraj Yadav",
-    "batch": "2016",
-    "linkedin": "https://www.linkedin.com/in/deshrajdry/",
-    "github": "https://github.com/deshraj",
-    "image": "https://avatars.githubusercontent.com/u/2945708?v=4",
-    "bio": "Tesla Autopilot - Machine Learning Engineer | Co-founded Caliper.ai"
+    "name": "Dheeraj Kotwani",
+    "batch": "2022",
+    "bio": "Android Developer who loves to build amazing apps. I believe in practice based learning and always there to collaborate and build projects.",
+    "linkedin": "https://www.linkedin.com/in/dheerajkotwani/",
+    "github": "https://github.com/dheerajkotwani/",
+    "image": "https://avatars3.githubusercontent.com/u/44086235?s=460&u=68b5257a178f390026de053fd156498a1a4773a0&v=4"
   },
   {
     "id": "3",
-    "name": "Himanshu Agarwal",
-    "batch": "2020",
-    "linkedin": "https://www.linkedin.com/in/codehimanshu/",
-    "github": "https://github.com/codehimanshu",
-    "image": "https://avatars.githubusercontent.com/u/14791631?v=4",
-    "bio": "Sr Software Engineer at Gradeup (Gradestack Learning Pvt Ltd)"
+    "name": "Pragati Verma",
+    "batch": "2022",
+    "bio": "MLH Fellow | Ex-DSC Lead | SIH2020 Winner | MLSA 2020 | GSSoC'20 Mentor | GCI'19 Mentor @CircuitVerse | Full Stack Web Developer | Open Source Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/pragativerma18/",
+    "github": "https://github.com/PragatiVerma18",
+    "image": "https://user-images.githubusercontent.com/42115530/104717968-2d10ad80-5750-11eb-9215-9817ec2056e6.png"
   },
   {
     "id": "4",
-    "name": "Mayank Chauhan",
-    "batch": "2020",
-    "linkedin": "https://www.linkedin.com/in/makchan15/",
-    "github": "https://github.com/MakChan",
-    "image": "https://avatars.githubusercontent.com/u/16956850?v=4",
-    "bio": "Frontend at Syfe | React & React Native Developer"
+    "name": "Gaurav Kumar",
+    "batch": "2022",
+    "bio": "I am a passionate Product designer who brings art, business, and engineering altogether.",
+    "linkedin": "https://www.linkedin.com/in/gauravgeek23/",
+    "github": "https://www.behance.net/gauravgeek23",
+    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1629571205/gaurav_xxdkhz.jpg"
   },
   {
     "id": "5",
-    "name": "Hargovind Arora",
-    "batch": "2020",
-    "linkedin": "https://www.linkedin.com/in/hargovindarora04",
-    "github": "https://github.com/HargovindArora",
-    "image": "https://avatars.githubusercontent.com/u/22341493?v=4",
-    "bio": "Machine Learning Intern @ Hiver | Master's CSE @ IIIT Bangalore '22"
+    "name": "Vatsal Kesarwani",
+    "batch": "2022",
+    "bio": "I'm an Android Developer who loves to build amazing apps. I believe in open-source learning and always there to collaborate and build projects. I code in C, C++, Java, Kotlin.",
+    "linkedin": "https://www.linkedin.com/in/vatsal-kesarwani/",
+    "github": "https://github.com/plazzy99",
+    "image": "https://avatars2.githubusercontent.com/u/48295138?s=460&u=8e588b8e5d6e8eb2f40886398c26e37b83b33e50&v=4"
   },
   {
     "id": "6",
-    "name": "Animesh Seemendra",
-    "batch": "2020",
-    "linkedin": "https://www.linkedin.com/in/animeshseemendra",
-    "github": "https://github.com/animeshseemendra",
-    "image": "https://avatars.githubusercontent.com/u/22393566?v=4",
-    "bio": "Research Engineer at SHL | Ex DSC Lead 2019-2020"
+    "name": "Ayush Tiwari",
+    "batch": "2022",
+    "bio": "I love to solve problems and learn about new technology. In my free time I like to watch movies, read blogs and participate in online contests. I am open to collaborate on interesting projects.",
+    "linkedin": "https://www.linkedin.com/in/ayush-tiwari-b376b5194/",
+    "github": "https://github.com/servermonk",
+    "image": "https://avatars0.githubusercontent.com/u/47775419?s=460&u=8093851c8db10edad1d6a00435989daab20c2bbe&v=4"
   },
   {
     "id": "7",
+    "name": "Gaurav Kumar",
+    "batch": "2022",
+    "bio": "REACT | PHP | LARAVEL | JAVASCRIPT | COMPETITIVE PROGRAMMER",
+    "linkedin": "https://www.linkedin.com/in/gaurav-kumar-51788a194/",
+    "github": "https://github.com/Gaurav6982",
+    "image": "https://avatars0.githubusercontent.com/u/49642550?s=460&u=18ca7aa78390044dca338d87ff90bb3511569b2c&v=4"
+  },
+  {
+    "id": "8",
+    "name": "Diya Jaiswal",
+    "batch": "2022",
+    "bio": "Backend Developer | Competitive Programmer | Open Source Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/diyajaiswal11/",
+    "github": "https://github.com/diyajaiswal11",
+    "image": "https://avatars1.githubusercontent.com/u/48059117?s=460&u=1887b008b26463a4c206beb958fd3db1823685b9&v=4"
+  },
+  {
+    "id": "9",
+    "name": "Swatantra Nigam",
+    "batch":"2022",
+    "bio": "DSA Enthusiastic, Competetive Programmer, Backend Developer",
+    "linkedin": "https://www.linkedin.com/in/swatantrakumarnigam/",
+    "github": "https://github.com/swatantra94",
+    "image": "https://avatars1.githubusercontent.com/u/48061489?s=460&u=3ed05d50e68e484ff690fd04581e5adbff3cf46a&v=4"
+  },
+  {
+    "id": "10",
     "name": "Shubham Pathak",
     "batch": "2021",
     "linkedin": "https://in.linkedin.com/in/tronku",
@@ -63,7 +90,7 @@
     "bio": "SDE @ Zomato | Ex- Gradeup Intern"
   },
   {
-    "id": "8",
+    "id": "11",
     "name": "Utkarsh Srivastava",
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/utkarsh7998/",
@@ -72,7 +99,7 @@
     "bio": "Master's CSE @IIT Kanpur | AIR 135 GATE CS'21"
   },
   {
-    "id": "9",
+    "id": "12",
     "name": "Radhika Bajaj",
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/radhika-bajaj/",
@@ -81,7 +108,7 @@
     "bio": "Software Engineer at Gradeup (Gradestack Learning Pvt Ltd)"
   },
   {
-    "id": "10",
+    "id": "13",
     "name": "Pulkit Jatav",
     "batch": "2021",
     "linkedin": "https://linkedin.com/in/pulkit-jatav",
@@ -90,7 +117,7 @@
     "bio": "Software Engineer at HashedIn by Deloitte"
   },
   {
-    "id": "11",
+    "id": "14",
     "name": "Tarun Shekhar",
     "batch": "2021",
     "linkedin": "https://linkedin.com/in/tarun-shekher-5b3801147",
@@ -99,7 +126,7 @@
     "bio": "Software Engineer @ Global Logic"
   },
   {
-    "id": "12",
+    "id": "15",
     "name": "Arpit",
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/gravious00",
@@ -108,12 +135,66 @@
     "bio": "Experienced Developer with a demonstrated history of working with developers. Skilled in OpenCV, Python Machine Learning, and Leadership."
   },
   {
-    "id": "13",
+    "id": "16",
     "name": "Apoorva Srivastava",
     "batch": "2021",
     "linkedin": "https://www.linkedin.com/in/apoorva-srivastava-9b9588162/",
     "github": "",
     "image": "https://user-images.githubusercontent.com/56193323/131889116-da658e6a-9609-4b80-ab2c-8c2a0956b68a.jpeg",
     "bio": "M.Tech in Information Technology, IIIT Allahabad"
+  },
+  {
+    "id": "17",
+    "name": "Himanshu Agarwal",
+    "batch": "2020",
+    "linkedin": "https://www.linkedin.com/in/codehimanshu/",
+    "github": "https://github.com/codehimanshu",
+    "image": "https://avatars.githubusercontent.com/u/14791631?v=4",
+    "bio": "Sr Software Engineer at Gradeup (Gradestack Learning Pvt Ltd)"
+  },
+  {
+    "id": "18",
+    "name": "Mayank Chauhan",
+    "batch": "2020",
+    "linkedin": "https://www.linkedin.com/in/makchan15/",
+    "github": "https://github.com/MakChan",
+    "image": "https://avatars.githubusercontent.com/u/16956850?v=4",
+    "bio": "Frontend at Syfe | React & React Native Developer"
+  },
+  {
+    "id": "19",
+    "name": "Hargovind Arora",
+    "batch": "2020",
+    "linkedin": "https://www.linkedin.com/in/hargovindarora04",
+    "github": "https://github.com/HargovindArora",
+    "image": "https://avatars.githubusercontent.com/u/22341493?v=4",
+    "bio": "Machine Learning Intern @ Hiver | Master's CSE @ IIIT Bangalore '22"
+  },
+  {
+    "id": "20",
+    "name": "Animesh Seemendra",
+    "batch": "2020",
+    "linkedin": "https://www.linkedin.com/in/animeshseemendra",
+    "github": "https://github.com/animeshseemendra",
+    "image": "https://avatars.githubusercontent.com/u/22393566?v=4",
+    "bio": "Research Engineer at SHL | Ex DSC Lead 2019-2020"
+  },
+  {
+    "id": "21",
+    "name": "Deshraj Yadav",
+    "batch": "2016",
+    "linkedin": "https://www.linkedin.com/in/deshrajdry/",
+    "github": "https://github.com/deshraj",
+    "image": "https://avatars.githubusercontent.com/u/2945708?v=4",
+    "bio": "Tesla Autopilot - Machine Learning Engineer | Co-founded Caliper.ai"
+  },
+  {
+    "id": "22",
+    "name": "Taranjeet Singh",
+    "batch": "2015",
+    "linkedin": "https://www.linkedin.com/in/taranjeet7114/",
+    "github": "https://github.com/taranjeet",
+    "image": "https://avatars.githubusercontent.com/u/4302268?v=4",
+    "bio": "Product & Growth at Khatabook (YC S18) | Previously Engineering at Paytm, Gradeup, edX"
   }
 ]

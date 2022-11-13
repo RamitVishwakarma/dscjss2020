@@ -12,12 +12,14 @@ function Home() {
     autoplay: true,
     animationData: TeamAnim,
   };
+  console.log("width",window.innerWidth)
   return (
     <>
     <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
-          <span className="page__heading">GDSC JSS NOIDA</span>
+          {/* <span className="page__heading">GDSC JSS NOIDA</span> */}
+          <span className="page__heading">{window.innerWidth>768?"GDSC JSS NOIDA": "GDSC JSSATEN"}</span>
           <span className="page__content">
             A community of
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>

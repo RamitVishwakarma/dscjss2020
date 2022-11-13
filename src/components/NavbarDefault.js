@@ -6,13 +6,14 @@ import MediaQuery from 'react-responsive';
 import Sidebar from './Sidebar';
 import { IconContext } from 'react-icons';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
+import styles from './NavbarDefault.module.css';
 
 function NavbarDefault() {
   const [isOpen, handleOpen] = useState(false);
   const location = useLocation();
   return (
     <div className={isOpen ? 'navbar__main navbar__stretch' : 'navbar__main'}>
-      <img src={Logo} alt='dscjss' />
+      <img className={`${styles.logo}`} src={Logo} alt='dscjss'  />
       <MediaQuery maxDeviceWidth={990}>
         {isOpen ? (
           <IconContext.Provider value={{ className: 'menu-icon close' }}>
