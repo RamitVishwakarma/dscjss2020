@@ -14,13 +14,13 @@ function Clubs() {
         </h2>
       </div>
       <div className="row mb-5" style={{ "justify-content": "center" }}>
-        <div className="col-md-3 col-sm-6 ml-5 mr-5">
+        <div className="col-md-3 col-sm-6 ml-5 mr-5 mb-3">
           <Development />
         </div>
-        <div className="col-md-3 col-sm-6 ml-5 mr-5">
+        <div className="col-md-3 col-sm-6 ml-5 mr-5 mb-3">
           <Programming />
         </div>
-        <div className="col-md-3 col-sm-6 ml-5 mr-5">
+        <div className="col-md-3 col-sm-6 ml-5 mr-5 mb-3">
           <Design />
         </div>
       </div>
