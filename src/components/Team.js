@@ -53,7 +53,7 @@ function Team() {
             <div className="member__img">
               <img src={member.image} alt="" className="display__img" />
               <div className="content__overlay">
-                <div className="overlay__content">
+                <div className="overlay__content" id="scrollb_style">
                   <span>{member.bio}</span>
                   <div className="member__social">
                     <a
