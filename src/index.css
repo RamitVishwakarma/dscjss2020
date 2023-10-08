@@ -187,7 +187,6 @@ a {
   height: 100%;
   border-radius: 10px;
   height: auto;
-  min-height: 300px;
 }
 .member__social {
   position: absolute;
