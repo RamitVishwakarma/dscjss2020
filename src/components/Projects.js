@@ -35,7 +35,7 @@ function Projects() {
   };
   return (
     <>
-    <NavbarDefault />
+      <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Stuff we make</span>
@@ -439,6 +439,98 @@ function Projects() {
           </div>
         </div>
         {/* Snappify */}
+        {/* GDSC_Recruitment_Platform */}
+        <div className="project__card mb-5">
+          <div className="row">
+            <div
+              className="project__image col-md-5 col-sm-5"
+              style={{
+                backgroundColor: "#DB4437",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
+              <img
+                src="https://i.ibb.co/KLPYYz6/recruitment.png"
+                alt="GDSC Recruitment Platform"
+                style={{
+                  height: "330px",
+                  marginBottom: "-75px",
+                }}
+              />
+            </div>
+            <div className="project__content col-md-7 p-5 col-sm-7">
+              <h3 className="mb-3">GDSC Recruitment Platform</h3>
+              <p className="mb-2">
+                GDSC Recruitment Platform is an intelligent solution designed to streamline and 
+                simplify the recruitment process. With GDSC Recruitment Platform, 
+                students can register and apply for recruitment test.{" "}
+              </p>
+              <div className="mb-3">
+                <img src={react} alt="React" />
+                {/* <img src={bootstrap} alt="bootstrap" /> */}
+                {/* <img src={figma} alt="figma" /> */}
+              </div>
+              <a
+                href="#"
+                className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View Project
+              </a>
+            </div>
+          </div>
+        </div>
+        {/* GDSC_Recruitment_Platform */}
+        {/* Hola */}
+        <div className="project__card mb-5">
+          <div className="row">
+            <div
+              className="project__image col-md-5 col-sm-5"
+              style={{
+                backgroundColor: "#4285F4",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+              }}
+            >
+              <img
+                src="https://i.ibb.co/bFtrTkV/hola.png"
+                alt="Hola"
+                style={{
+                  height: "330px",
+                  marginBottom: "-175px",
+                }}
+              />
+            </div>
+            <div className="project__content col-md-7 p-5 col-sm-7">
+              <h3 className="mb-3">Hola</h3>
+              <p className="mb-2">
+              Hola is a dynamic platform that bridges the gap between students and alumni. 
+              It's the perfect place for students to seek valuable guidance and assistance from their experienced peers. 
+              With Hola, students can tap into the wisdom of alumni, benefiting from their insights and expertise. 
+              Whether you're looking for career advice, mentorship, or simply a connection with those who have walked 
+              the same path, Hola provides the link between past and present, ensuring a brighter future for all.{" "}
+              </p>
+              <div className="mb-3">
+                <img src={react} alt="React" />
+                {/* <img src={bootstrap} alt="bootstrap" /> */}
+                {/* <img src={figma} alt="figma" /> */}
+              </div>
+              <a
+                href="#"
+                className="view-btn mt-3"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View Project
+              </a>
+            </div>
+          </div>
+        </div>
+        {/* Hola */}
       </div>
       <Footer />
     </>
