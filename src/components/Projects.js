@@ -463,8 +463,8 @@ function Projects() {
             <div className="project__content col-md-7 p-5 col-sm-7">
               <h3 className="mb-3">GDSC Recruitment Platform</h3>
               <p className="mb-2">
-                GDSC Recruitment Platform is an intelligent solution designed to streamline and 
-                simplify the recruitment process. With GDSC Recruitment Platform, 
+                GDSC Recruitment Platform is an intelligent solution designed to streamline and
+                simplify the recruitment process. With GDSC Recruitment Platform,
                 students can register and apply for recruitment test.{" "}
               </p>
               <div className="mb-3">
@@ -473,7 +473,7 @@ function Projects() {
                 {/* <img src={figma} alt="figma" /> */}
               </div>
               <a
-                href="#"
+                href="https://gdscjss.in/projects"
                 className="view-btn mt-3"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -508,11 +508,11 @@ function Projects() {
             <div className="project__content col-md-7 p-5 col-sm-7">
               <h3 className="mb-3">Hola</h3>
               <p className="mb-2">
-              Hola is a dynamic platform that bridges the gap between students and alumni. 
-              It's the perfect place for students to seek valuable guidance and assistance from their experienced peers. 
-              With Hola, students can tap into the wisdom of alumni, benefiting from their insights and expertise. 
-              Whether you're looking for career advice, mentorship, or simply a connection with those who have walked 
-              the same path, Hola provides the link between past and present, ensuring a brighter future for all.{" "}
+                Hola is a dynamic platform that bridges the gap between students and alumni.
+                It's the perfect place for students to seek valuable guidance and assistance from their experienced peers.
+                With Hola, students can tap into the wisdom of alumni, benefiting from their insights and expertise.
+                Whether you're looking for career advice, mentorship, or simply a connection with those who have walked
+                the same path, Hola provides the link between past and present, ensuring a brighter future for all.{" "}
               </p>
               <div className="mb-3">
                 <img src={react} alt="React" />
@@ -520,7 +520,7 @@ function Projects() {
                 {/* <img src={figma} alt="figma" /> */}
               </div>
               <a
-                href="#"
+                href="https://gdscjss.in/projects"
                 className="view-btn mt-3"
                 target="_blank"
                 rel="noopener noreferrer"
