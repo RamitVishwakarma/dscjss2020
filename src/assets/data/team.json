@@ -1,123 +1,6 @@
 [
   {
     "id": "1",
-    "name": "Shubhransh Bhaskar",
-    "role": "GDSC Lead",
-    "bio": "UI/UX Designer & Developer, doing a lot of other stuff ; keep up.",
-    "linkedin": "https://www.linkedin.com/in/iamshubhransh/",
-    "github": "https://github.com/iamshubhransh/",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1702906126/Profile%20Photo%20%28File%20responses%29/shubhransh_sir_bvlqe2.jpg"
-  },
-  {
-    "id": "2",
-    "name": "Prakhar Sharma",
-    "role": "CTC|Programmer",
-    "bio": "I'm an undergraduate student who is passionate about solving real-life problems. Competitive Programmer | Open Source Enthusiast | Java.",
-    "linkedin": "https://www.linkedin.com/in/sprakhar07/",
-    "github": "https://github.com/sprakhar11",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849450/prakhar_qvejyr.jpg"
-  },
-  {
-    "id": "3",
-    "name": "Rucha Kasture",
-    "role": "Web Developer",
-    "bio": "Web Lead @GDSC | SIH 2022 Winner | MLSA 2021 | GSSoC'22 Mentor | Frontend Developer | Open Source Enthusiast",
-    "linkedin": "https://www.linkedin.com/in/rucha-kasture-02/",
-    "github": "https://github.com/rucha0702",
-    "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181870/xyz_-_Rucha_Kasture_uoybgo.jpg"
-  },
-  {
-    "id": "4",
-    "name": "Satyam",
-    "role": "Designer",
-    "bio": "I am a passionate UI/UX Designer & Front-end Developer who brings art, business, and engineering altogether Product Designer @Wint.",
-    "linkedin": "https://www.linkedin.com/in/sat02yam",
-    "github": "https://github.com/Sat02yam/",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706291/Profile%20Photo%20%28File%20responses%29/ntbu3fefgkb7ahuysyxb.png"
-  },
-  {
-    "id": "5",
-    "name": "Prince Gupta",
-    "role": "Android Developer",
-    "bio": "Android Developer, Enthusiastic about solving real world problems.",
-    "linkedin": "https://www.linkedin.com/mwlite/in/prince-gupta-595157211",
-    "github": "https://github.com/princegupta25",
-    "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181607/pf5b82_-_Prince_Gupta_ld5dhc.jpg"
-  },
-  {
-    "id": "6",
-    "name": "Pankhuri Srivastava",
-    "role": "Machine Learning",
-    "bio": "Competitive Programmer, Data Structure and Algorithms enthusiast, Backend and Machine Learning Developer.",
-    "linkedin": "https://www.linkedin.com/in/pankhuri-srivastava-2001/",
-    "github": "https://github.com/srivasPankhuri",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706287/Profile%20Photo%20%28File%20responses%29/bjbij2ckuvtd5p1ctvgx.jpg"
-  },
-  {
-    "id": "7",
-    "name": "Vijay Kumar Prajapati",
-    "role": "Web Developer",
-    "bio": "Front-end developer | open source enthusiast | C++",
-    "linkedin": "https://www.linkedin.com/in/vijayyprajapati/",
-    "github": "https://github.com/vijayyprajapati",
-    "image": "https://res.cloudinary.com/de4by5q8o/image/upload/v1628849462/vijay_zafkdv.jpg"
-  },
-  {
-    "id": "8",
-    "name": "Divik Agrawal",
-    "role": "Machine Learning",
-    "bio": "ML Developer, DSA Enthusiast and interested in solving real-life problems.",
-    "linkedin": "https://www.linkedin.com/in/divik-agrawal-b45325208/",
-    "github": "https://github.com/divik2510",
-    "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181919/image_-_Divik_Agrawal_r3sstx.jpg"
-  },
-  {
-    "id": "9",
-    "name": "Ritika Garg",
-    "role": "Programmer",
-    "bio": "SIH'2022 Finalist | Data structure and algorithms enthusiast | Competitive programmer | Backend developer ",
-    "linkedin": "https://www.linkedin.com/in/ritika-garg-1458711ba/",
-    "github": "https://github.com/RitikaGarg-tech",
-    "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181875/myprofile_-_Ritika_Garg_bjfpdr.jpg"
-  },
-  {
-    "id": "10",
-    "name": "Aabhash Gauda",
-    "role": "Developer",
-    "bio": "I love Developing and Exploring World of Web |Java.",
-    "linkedin": "https://in.linkedin.com/in/aabhash-gauda-36364b213?original_referer=https%3A%2F%2Fwww.google.com%2F",
-    "github": "https://github.com/AabhashGauda",
-    "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668418143/abhash_lucwev.jpg"
-  },
-  {
-    "id": "11",
-    "name": "Udbhav Patel",
-    "role": "Designer",
-    "bio": "Designer who loves to create new things and show creativity✨Java DSA whiz, Python data maven—coding magic in action!.",
-    "linkedin": "https://www.linkedin.com/in/udbhav-patel-267904203",
-    "github": "https://github.com/Ski1ledHawkeye",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706295/Profile%20Photo%20%28File%20responses%29/kwonopue2rtlph6nbfmt.jpg"
-  },
-  {
-    "id": "12",
-    "name": "Harshit keshri",
-    "role": "Android Developer",
-    "bio": "Tech enthusiast with skills in Android Development and good problem solving skills in DSA.",
-    "linkedin": "https://www.linkedin.com/in/harshit-keshri-a07757201",
-    "github": "https://github.com/harshitkeshrihk",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706291/Profile%20Photo%20%28File%20responses%29/fd99d9oldx13kmrfg13p.jpg"
-  },
-  {
-    "id": "13",
-    "name": "Kalash Saini",
-    "role": "Android Developer",
-    "bio": "I build mobile applications in Flutter tech stack | Love to work on team projects.",
-    "linkedin": "https://www.linkedin.com/in/kalashsaini27/",
-    "github": "https://github.com/insfirred",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706309/Profile%20Photo%20%28File%20responses%29/mzevgwkxy54waypg8igc.jpg"
-  },
-  {
-    "id": "14",
     "name": "Piyush Gupta",
     "role": "Web Lead",
     "bio": "Data Structure and Algorithm and a Web Enthusiast. Exploring various technologies in web development. ",
@@ -126,7 +9,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706289/Profile%20Photo%20%28File%20responses%29/yribfokbfzlofecku2as.jpg"
   },
   {
-    "id": "15",
+    "id": "2",
     "name": "Rudrakshita",
     "role": "Design Lead",
     "bio": "Spearheading user-friendly designs and maintaining visual consistency. My role revolves around crafting engaging experiences for various projects, all within the GDSC ecosystem",
@@ -135,7 +18,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706287/Profile%20Photo%20%28File%20responses%29/urnabf4ceig3ldbw5rkm.jpg"
   },
   {
-    "id": "16",
+    "id": "3",
     "name": "Yash Tiwari",
     "role": "Media Lead",
     "bio": "Developing to Develop !",
@@ -144,7 +27,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696755424/Profile%20Photo%20%28File%20responses%29/yehn5zcn74np2hjh5g1j.jpg"
   },
   {
-    "id": "17",
+    "id": "4",
     "name": "Shagun Chahar",
     "role": "Android Lead",
     "bio": "Building smarter applications for smarter users.",
@@ -153,7 +36,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706289/Profile%20Photo%20%28File%20responses%29/p3b5jn7f3pqw1xlp9btt.jpg"
   },
   {
-    "id": "18",
+    "id": "5",
     "name": "Ashish Kushwaha",
     "role": "ML Lead",
     "bio": "ML Lead | Backend Dev | Competitive Programmer",
@@ -162,7 +45,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706288/Profile%20Photo%20%28File%20responses%29/ed2fhrc9z0z3u1scfsjz.jpg"
   },
   {
-    "id": "19",
+    "id": "6",
     "name": "Om Gupta",
     "role": "Programming Lead",
     "bio": "Competitive Programmer | DSA | WEB DEV | Open Source.",
@@ -171,7 +54,7 @@
     "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181921/00C86C0C-D1DC-4225-AAAE-99BA74E19CF2_-_21CS048_omgupta_axqrud.jpg"
   },
   {
-    "id": "20",
+    "id": "7",
     "name": "Rishita Jayant",
     "role": "Web Developer",
     "bio": "Aspiring Full-stack Web Developer ^_^, finding my way through songs is my speciality and Designing's one of my forte...",
@@ -181,7 +64,7 @@
   },
  
   {
-    "id": "21",
+    "id": "8",
     "name": "Vrishhti Goel",
     "role": "Designer",
     "bio": "A passionate Designer and DSA enthusiast, striving hard to sharpen my tech skills.",
@@ -190,7 +73,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696793000/Profile%20Photo%20%28File%20responses%29/o8qktkfjwqaaomonxgqe.jpg"
   },
   {
-    "id": "22",
+    "id": "9",
     "name": "Anubhav Pal",
     "role": "Designer",
     "bio": "Developer with a strong idea of UI/UX design, combining technical expertise with a keen eye for aesthetics.",
@@ -199,7 +82,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706296/Profile%20Photo%20%28File%20responses%29/bxqtbrghraktx8e0hxwo.jpg"
   },
   {
-    "id": "23",
+    "id": "10",
     "name": "Devanshi Bahuguna",
     "role": "Programmer",
     "bio": "ML Enthusiast | Data Science | Web Developer",
@@ -208,7 +91,7 @@
     "image": "https://res.cloudinary.com/diupnvqvv/image/upload/v1668181920/1667999208439_-_devanshi_bahuguna_blf3r0.jpg"
   },
   {
-    "id": "24",
+    "id": "11",
     "name": "Abhishek Sharma",
     "role": "Programmer",
     "bio": "Competitive programming | Development",
@@ -217,7 +100,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696828996/Profile%20Photo%20%28File%20responses%29/cipa42pdrrtqfi8lecwg.jpg"
   },
   {
-    "id": "25",
+    "id": "12",
     "name": "Vaani Pathariya",
     "role": "Web Developer",
     "bio": "Web Development | Machine Learning | Diving into the world of hackathons and turning creativity into innovation.",
@@ -226,7 +109,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706288/Profile%20Photo%20%28File%20responses%29/yzgy1jjgriytgi65bevn.jpg"
   },
   {
-    "id": "26",
+    "id": "13",
     "name": "Shiven Upadhyay ",
     "role": "Web Developer",
     "bio": "Experienced full stack developer with a passion for problem-solving, and a love for DSA challenges.",
@@ -235,7 +118,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696793001/Profile%20Photo%20%28File%20responses%29/dtrv6esyst9usof6qa2a.jpg"
   },
   {
-    "id": "27",
+    "id": "14",
     "name": "Yatendra Upadhyay",
     "role": "Web Developer",
     "bio": "Full Stack Web developer specialised in backend development.|Passionate about solving real-life problems through Data structures and algorithms. ",
@@ -244,7 +127,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706317/Profile%20Photo%20%28File%20responses%29/ixuxxqwfsavnaf92xpxf.jpg"
   },
   {
-    "id": "28",
+    "id": "15",
     "name": "Nitish",
     "role": "Android Developer",
     "bio": "Aspiring for infinity",
@@ -253,7 +136,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696778966/Profile%20Photo%20%28File%20responses%29/ql0nyjbru2qgsxzrmawj.jpg"
   },
   {
-    "id": "29",
+    "id": "16",
     "name": "Smriti Singh",
     "role": "Designer",
     "bio": "I have passion for design. I excel at bridging technology and creativity, with a strong technical foundation in programming and a flair for crafting user-friendly interfaces.",
@@ -262,7 +145,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696759683/Profile%20Photo%20%28File%20responses%29/kltebtdyugyqdux5pnpf.png"
   },
   {
-    "id": "30",
+    "id": "17",
     "name": "Deepanshu Pandey",
     "role": "Android Developer",
     "bio": "I'm a programmer skilled in C++, Python, and C, with expertise in Android app development using Flutter and backend development using Django.",
@@ -271,7 +154,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706306/Profile%20Photo%20%28File%20responses%29/nlz5vjrra4wwtkxcwnku.jpg"
   },
   {
-    "id": "31",
+    "id": "18",
     "name": "Yuvraj Singh Yadav",
     "role": "Android Developer",
     "bio": "Celebrated for expertise in crafting intuitive Android applications with mastery of dart and Kotlin, excelling as a versatile Python developer.",
@@ -280,7 +163,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706292/Profile%20Photo%20%28File%20responses%29/e2sla1x3fwpboncsgilk.png"
   },
   {
-    "id": "32",
+    "id": "19",
     "name": "Bhavya Mittal",
     "role": "Programmer",
     "bio": "Experienced programmer with a passion for learning and growing and have a strong background in Data structures, as well as working on projects.",
@@ -289,7 +172,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706289/Profile%20Photo%20%28File%20responses%29/oqi3awcpfpwkmyt3mogk.jpg"
   },
   {
-    "id": "33",
+    "id": "20",
     "name": "Ramit Vishwakarma",
     "role": "Programmer",
     "bio": "Java || Competitive Programmer || Full Stack Web Developer. ",
@@ -298,16 +181,16 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696759036/Profile%20Photo%20%28File%20responses%29/uvbwcsuwevxq1zptqvyy.jpg"
   },
   {
-    "id": "34",
+    "id": "21",
     "name": "Kanak Goel",
     "role": "Programmer",
-    "bio": "As a competitive programmer and Android developer, I am passionate about using code snippets to solve real-world problems.",
-    "linkedin": "https://www.linkedin.com/in/kanak-goel-59bb73200/",
+    "bio": "using code snippets to solve real-world problems",
+    "linkedin": "https://www.linkedin.com/in/kanakgoel03",
     "github": "https://github.com/phoenix-kanak",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706287/Profile%20Photo%20%28File%20responses%29/mjesqvhhn1ag59n4urkc.jpg"
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193959/Gdsc%20Profile/wrfvplbyyvkthy9celdt.jpg"
   },
   {
-    "id": "35",
+    "id": "22",
     "name": "Vedant Goyal",
     "role": "Programmer",
     "bio": "I am a Competitive programmer and enthusiastic learner",
@@ -316,25 +199,25 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706295/Profile%20Photo%20%28File%20responses%29/v9s8brohtddskfuoi45m.jpg"
   },
   {
-    "id": "36",
+    "id": "23",
     "name": "Ayush Agrawal",
     "role": "Programmer",
-    "bio": "Android Developer who crafts user-friendly mobile apps, Competitive Programmer learning at my own pace.",
-    "linkedin": "https://www.linkedin.com/in/ayushking009",
+    "bio": "Fueled by coffee ☕, driven by creativity ✨, and always ready for the next challenge 😉",
+    "linkedin": "https://www.linkedin.com/in/its-ayushh-here/",
     "github": "https://github.com/Agrawal-Ayush-009",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696793001/Profile%20Photo%20%28File%20responses%29/ylztliujnwq5u51qc7dt.jpg"
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193960/Gdsc%20Profile/z0yqonf22abeebekp940.jpg"
   },
   {
-    "id": "37",
+    "id": "24",
     "name": "Aayush Jain",
     "role": "Machine Learning",
-    "bio": "I'm the ultimate generalist, striking the perfect harmony between machine learning and musical melodies! 🎸🤖 Always searching for new experiences.",
+    "bio": "Aayush is a machine learning dev with a newfound interest for quantitative methods and modelling, and a solid foundation in mathematics. He's always building something new on the nights and weekends. ",
     "linkedin": "https://www.linkedin.com/in/aayush-jain-builds",
     "github": "https://github.com/Stoic-Angel",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706289/Profile%20Photo%20%28File%20responses%29/hgqcvv4ge3qpbdaoul1x.jpg"
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193958/Gdsc%20Profile/y9ymnq4lhu04smqgep3m.jpg"
   },
   {
-    "id": "38",
+    "id": "25",
     "name": "Harsh Sharma",
     "role": "Web Developer",
     "bio": "Enthusiast in creating different things through Technology and Explore different paths of Tech ",
@@ -343,7 +226,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696779176/Profile%20Photo%20%28File%20responses%29/yluarxjwcmscpclelaqi.jpg"
   },
   {
-    "id": "39",
+    "id": "26",
     "name": "Swapnil Singh",
     "role": "Web Developer",
     "bio": "Web Development | Open Source | Java | Exploring something new ^_^",
@@ -352,7 +235,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706290/Profile%20Photo%20%28File%20responses%29/jzilx6yzjgqarhn3r0c5.jpg"
   },
   {
-    "id": "40",
+    "id": "27",
     "name": "Ojas Mishra",
     "role": "Web Developer",
     "bio": "Web developer by day, problem solver by night. Using Web Development to create solutions that make life easier.",
@@ -361,7 +244,7 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696793544/Profile%20Photo%20%28File%20responses%29/cvt7n91nhe7pjlsor2ym.jpg"
   },
   {
-    "id": "41",
+    "id": "28",
     "name": "Sparsh Rathore ",
     "role": "Designer",
     "bio": "•I click photos •I design UI •I scribe emotions",
@@ -370,12 +253,156 @@
     "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706293/Profile%20Photo%20%28File%20responses%29/yulnwh7mocszo61hxn08.jpg"
   },
   {
-    "id": "42",
+    "id": "29",
     "name": "Aryan Kushwaha",
-    "role": "Designer",
-    "bio": "I merge aesthetics with digital innovation. Computers are like digital canvas for my ideas. On a mission to make the world organized one project at a time.",
-    "linkedin": "https://www.linkedin.com/in/funinkina/",
+    "role": "Machine Learning",
+    "bio": "This is Aryan aka funinkina. I do ML, cloud, linux and DevOps, and a bit of designing too. In case I didn't mention, i use arch btw.",
+    "linkedin": "https://www.linkedin.com/in/funinkina",
     "github": "https://github.com/funinkina",
-    "image": "https://res.cloudinary.com/dhkxbgwmt/image/upload/v1696706296/Profile%20Photo%20%28File%20responses%29/kdnjqaudafvj2f4bwr6o.jpg"
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193958/Gdsc%20Profile/pxgnehmj4mki8yr9jqo0.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Shreya Sharma",
+    "role": "Machine Learning",
+    "bio": "Machine learning enthusiast mastering Data Structures and Algorithms, and thriving on the adrenaline of regular hackathons",
+    "linkedin": "https://www.linkedin.com/in/shreya-sharma-75560224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/Shreya200326",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193963/Gdsc%20Profile/leiixuaxqspmi5crioxi.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Rishika Saxena",
+    "role": "Machine Learning",
+    "bio": "A cloud computing an Ml enthusiast exploring the technicalities of these domains and its certainly an ever growing euphoric experience for me.",
+    "linkedin": "https://www.linkedin.com/in/rishikasaxena24?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/rishika24-tech",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193957/Gdsc%20Profile/rmry4b3pq96yvfpvaucs.jpg"
+  },
+  {
+    "id": "32",
+    "name": "Yashvardhan Singh",
+    "role": "Android Developer",
+    "bio": "Hi, I am Yashvardhan Singh. My passion lies in cross-platform development. I am currently exploring the world of android.",
+    "linkedin": "https://www.linkedin.com/in/vardhan-ysh",
+    "github": "https://github.com/Vardhan-ysh",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193956/Gdsc%20Profile/wezisex7k5ru2nimwkgf.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Shailesh Yadav",
+    "role": "Designer",
+    "bio": "ArTech Enthusiast",
+    "linkedin": "https://www.linkedin.com/in/shailesh-yadav-730363154?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/shaileshyadavg",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193960/Gdsc%20Profile/jhlbi6du2hsi03tvelse.jpg"
+  },
+  {
+    "id": "34",
+    "name": "Sukhmeet Singh Lamba",
+    "role": "Designer",
+    "bio": "Editing, Motion Graphics, Abstractions are the things I may end up in love with.",
+    "linkedin": "https://www.linkedin.com/in/sukhh",
+    "github": "https://github.com/sukh285",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193957/Gdsc%20Profile/kvdzpvizevroirjkz247.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Shishir Kumar",
+    "role": "Web Developer",
+    "bio": "Fullstack Web Developer specialized in building large, scalable applications",
+    "linkedin": "https://linkedin.com/in/krshishir/",
+    "github": "https://github.com/krshishir1",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193957/Gdsc%20Profile/gsylggg2wnegfsphqnvq.png"
+  },
+  {
+    "id": "36",
+    "name": "Divyanshi Sharma",
+    "role": "Web Developer",
+    "bio": "Web Developer | Java | Making web work!!!",
+    "linkedin": "https://www.linkedin.com/in/divyanshi-sharma-1977a3302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/Missdivyaa",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193961/Gdsc%20Profile/hqlcx2te1tgrhvu3j46x.jpg"
+  },
+  {
+    "id": "37",
+    "name": "Avinash Kumar Ankur ",
+    "role": "Web Developer",
+    "bio": "Exploring tech, building practical solutions!",
+    "linkedin": "https://linkedin.com/in/avinashankur",
+    "github": "https://github.com/avinashankur",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193957/Gdsc%20Profile/wxpiptbuzark6gaj4aeu.jpg"
+  },
+  {
+    "id": "38",
+    "name": "Tanu Agarwal ",
+    "role": "Web Developer",
+    "bio": "A passionate web developer and DSA enthusiast",
+    "linkedin": "https://www.linkedin.com/in/tanu-agarwal0101",
+    "github": "https://www.github.com/tanu-agarwal0101",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193959/Gdsc%20Profile/px3ir1r39awnoqrstlh1.jpg"
+  },
+  {
+    "id": "39",
+    "name": "Abhinav Gupta",
+    "role": "Programmer",
+    "bio": "Coding my way through life, one line at a time",
+    "linkedin": "https://www.linkedin.com/in/abhinav-gupta-3580a72aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/AbhinavG786",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193956/Gdsc%20Profile/dw7rljay9ydnumdxmgxw.jpg"
+  },
+  {
+    "id": "40",
+    "name": "Ayushi shahi ",
+    "role": "Programmer",
+    "bio": "I'm a programmer passionate about solving complex problems with code, skilled in Python and Java. My interest in Machine Learning drives me to explore data-driven solutions and model development.",
+    "linkedin": "https://www.linkedin.com/in/ayushi-shahi-2907b0297",
+    "github": "",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193959/Gdsc%20Profile/mgejep57jffxhrihjasq.jpg"
+  },
+  {
+    "id": "41",
+    "name": "Abhay Shukla",
+    "role": "Machine Learning",
+    "bio": "ML enthusiast with strong experience in python and some cloud stuff on the side",
+    "linkedin": "http://www.linkedin.com/in/abhay-shukla-/",
+    "github": "http://www.github.com/into-the-night",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193957/Gdsc%20Profile/f8sdkfywlazyv3cwz1rg.jpg"
+  },
+  {
+    "id": "42",
+    "name": "Adya Singh ",
+    "role": "Android Developer",
+    "bio": "Android Developer | Learner | Data Structures and Algorithm Enthusiast | Java ",
+    "linkedin": "https://www.linkedin.com/in/adya-singh-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "github": "https://github.com/Adya-04",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193961/Gdsc%20Profile/pcxh1odqnsgcjox4nm0v.jpg"
+  },
+  {
+    "id": "43",
+    "name": "Ankur Dwivedi",
+    "role": "Designer",
+    "bio": "Creating innovative designs, blending aesthetics and functionality.",
+    "linkedin": "https://www.linkedin.com/in/ankur-dwivedi02/",
+    "github": "https://github.com/ankur-22",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193961/Gdsc%20Profile/uxuhz9atkghptynfqiwd.png"
+  },
+  {
+    "id": "44",
+    "name": "Shobhit keshari",
+    "role": "Designer",
+    "bio": "I am Shobhit Keshari, a UI/UX and Graphic Designer skilled in Adobe Photoshop, Illustrator, and Figma, with basic HTML/CSS knowledge. I design dynamic UI/UX, 3D and Posters and work with GDSC and PFC.",
+    "linkedin": "https://www.linkedin.com/in/shobhit-keshari-79ba88294/",
+    "github": "https://github.com/shobhitkeshari98",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193961/Gdsc%20Profile/tr9xgfggafscnezeouwb.png"
+  },
+  {
+    "id": "45",
+    "name": "Aakash Pathak",
+    "role": "Designer",
+    "bio": "Design is not just what it looks like, but how it works.",
+    "linkedin": "http://www.linkedin.com/in/aakash-pathak-7aa151304",
+    "github": "https://github.com/Pathakji12",
+    "image": "https://res.cloudinary.com/dgu3kt9f0/image/upload/v1726193956/Gdsc%20Profile/aslmtznachqgmavydk32.jpg"
   }
 ]
