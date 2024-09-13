@@ -20,7 +20,7 @@ function Events() {
   }, []);
   return (
     <>
-    <NavbarDefault />
+      <NavbarDefault />
       {/* <div className="flex__row">
         <div className="page__headline">
           <span className="page__heading">Events we align</span>
@@ -52,10 +52,197 @@ function Events() {
       </div>
       <div className="container-fluid mb-5 ml-auto p-3">
         <div className="row">
+          {/* 2023-24 */}
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C_yJHZFNAtu/"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C7N7hwJNhHN/"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C7JRr_gRLGS/"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C7H2qVgS3U0/"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C4K9URixjUZ/?img_index=1"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C4AcFMbRSPp/?img_index=1"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C1Pv1omPLK5/?img_index=1"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
+
+          
+
+          <div className="col-xs-12 col-sm-6 col-md-4">
+            <div className="project-box">
+              <blockquote
+                className="instagram-media"
+                data-instgrm-permalink="https://www.instagram.com/p/C08rcl6Ri6C/"
+                data-instgrm-version="14"
+                crossOrigin="anonymous"
+                style={{
+                  background: "#FFF",
+                  border: "0",
+                  borderRadius: "3px",
+                  boxShadow:
+                    "0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15)",
+                  margin: "1px",
+                  maxWidth: "540px",
+                  minWidth: "326px",
+                  padding: "0",
+                  width: "99.375%",
+                }}
+              ></blockquote>
+            </div>
+          </div>
 
           {/* 2022-23 */}
 
-        <div className="col-xs-12 col-sm-6 col-md-4">
+          <div className="col-xs-12 col-sm-6 col-md-4">
             <div className="project-box">
               <blockquote
                 className="instagram-media"
@@ -81,7 +268,6 @@ function Events() {
             <div className="project-box">
               <blockquote
                 className="instagram-media"
-                
                 data-instgrm-permalink="https://www.instagram.com/p/CyDZR6mNEC2/?utm_source=ig_embed&amp;utm_campaign=loading"
                 data-instgrm-version="14"
                 crossOrigin="anonymous"
@@ -388,7 +574,6 @@ function Events() {
           </div>
 
           {/* 2020 */}
-          
 
           <div className="col-xs-12 col-sm-6 col-md-4">
             <div className="project-box">
