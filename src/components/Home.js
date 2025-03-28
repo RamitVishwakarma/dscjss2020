@@ -12,14 +12,16 @@ function Home() {
     autoplay: true,
     animationData: TeamAnim,
   };
-  console.log("width",window.innerWidth)
+  // console.log("width", window.innerWidth);
   return (
     <>
-    <NavbarDefault />
+      <NavbarDefault />
       <div className="flex__row">
         <div className="page__headline">
           {/* <span className="page__heading">GDSC JSS NOIDA</span> */}
-          <span className="page__heading">{window.innerWidth>768?"GDSC JSS NOIDA": "GDSC JSSATEN"}</span>
+          <span className="page__heading">
+            {window.innerWidth > 768 ? "GDSC JSS NOIDA" : "GDSC JSSATEN"}
+          </span>
           <span className="page__content">
             A community of
             <span style={{ color: "#0F9D58", fontWeight: "bolder" }}>
@@ -42,10 +44,14 @@ function Home() {
           <a
             href="https://dsc.community.dev/jss-academy-of-technical-education-noida/"
             target="_blank"
-            rel="noopener noreferrer"
-          >
+            rel="noopener noreferrer">
             <button type="button" className="btn btn-primary join-us-btn">
-              <img src={codesandbox} className="codesandbox" alt="icon"  style={{}}/>
+              <img
+                src={codesandbox}
+                className="codesandbox"
+                alt="icon"
+                style={{}}
+              />
               <p>Join Us</p>
             </button>
           </a>
